@@ -5,6 +5,7 @@ import { DataLayerManager } from './data/manager.js';
 import flightsLayer from './data/flights.js';
 import militaryFlightsLayer from './data/militaryFlights.js';
 import earthquakesLayer from './data/earthquakes.js';
+import fencecreteJobsLayer from './data/fencecreteJobs.js';
 import satellitesLayer from './data/satellites.js';
 import rocketLaunchesLayer from './data/rocketLaunches.js';
 import trafficLayer from './data/traffic.js';
@@ -226,6 +227,7 @@ async function init() {
     for (const layer of localDataLayers) {
       dataManager.register(layer);
     }
+    dataManager.register(fencecreteJobsLayer);
     // Restoration starts only after the complete production registry is sealed.
     dataManager.finalizeRegistrations(LAYER_STATE_REGISTRY);
     if (import.meta.env.DEV) {

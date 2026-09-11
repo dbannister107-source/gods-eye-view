@@ -13,6 +13,11 @@ of current runtime behavior, see [`docs/CURRENT-STATE.md`](docs/CURRENT-STATE.md
 
 ## [Unreleased]
 
+- Additive **Fencecrete jobs** layer (this fork): toggleable maroon pins from
+  `public/data/fencecrete-jobs.geojson`. Starter file is two plant pins only.
+  Refresh with `node scripts/map-csv-to-fencecrete-geojson.mjs` from a Command
+  Center `/map` CSV. Stock GEV layers are unchanged.
+
 - Unchanged local infrastructure overlays no longer sustain idle rendering.
   Ground samples wait for visible terrain to settle and cannot place a marker
   below its loaded surface; roofs and valid below-sea-level heights are retained.
