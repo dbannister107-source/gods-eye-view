@@ -75,14 +75,23 @@ export function fencecreteJobOverlayCopy(job) {
   return { title, details };
 }
 
+function readFiniteCoordinate(value) {
+  if (typeof value === 'number') return Number.isFinite(value) ? value : null;
+  if (typeof value !== 'string') return null;
+  const text = value.trim();
+  if (!text) return null;
+  const numeric = Number(text);
+  return Number.isFinite(numeric) ? numeric : null;
+}
+
 function readCoordinatePair(feature) {
   const geometry = feature?.geometry;
   if (!geometry || (geometry.type != null && geometry.type !== 'Point')) return null;
   const coordinates = geometry.coordinates;
   if (!Array.isArray(coordinates) || coordinates.length < 2) return null;
-  const lon = Number(coordinates[0]);
-  const lat = Number(coordinates[1]);
-  if (!Number.isFinite(lon) || !Number.isFinite(lat)) return null;
+  const lon = readFiniteCoordinate(coordinates[0]);
+  const lat = readFiniteCoordinate(coordinates[1]);
+  if (lon == null || lat == null) return null;
   if (Math.abs(lon) > 180 || Math.abs(lat) > 90) return null;
   return { lon, lat };
 }
