@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-95.4807, 29.5994] },
+      "properties": {
+        "id": "268ebe83-e7a5-4f30-8ef4-d2c473fb302c",
+        "job_number": "26H055",
+        "job_name": "Houston Plant",
+        "status": "production_queue",
+        "market": "Houston",
+        "coords_source": "manual",
+        "url": "https://ops.fencecrete.com/projects/268ebe83-e7a5-4f30-8ef4-d2c473fb302c",
+        "_sample": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-98.6122, 29.5849] },
+      "properties": {
+        "id": "e044e2df-9661-4c61-af41-87e16a01b6d0",
+        "job_number": "26S034",
+        "job_name": "San Antonio Plant",
+        "status": "production_queue",
+        "market": "San Antonio",
+        "coords_source": "manual",
+        "url": "https://ops.fencecrete.com/projects/e044e2df-9661-4c61-af41-87e16a01b6d0",
+        "_sample": true
+      }
+    }
+  ]
+}

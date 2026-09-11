@@ -298,6 +298,20 @@ Thirteen layers and map sources. **Eleven have a keyless path.** Some offer addi
 
 **Missing a layer you want?** Open an issue — or add it and send the PR.
 
+### Fencecrete jobs (this fork)
+
+Toggle **Fencecrete jobs** in the Data Layers tray. The layer fetches the committed static file `public/data/fencecrete-jobs.geojson` — no live Fencecrete API and no extra keys. The starter file is **two plant pins only** (Houston and San Antonio). Replace it with a full Command Center `/map` export when you want every job on the globe.
+
+Refresh the pins from Command Center:
+
+1. Export the `/map` CSV. Expected columns: `Job #`, `Name`, `Status`, `Market`, `Lat`, `Lng`, plus `id` when present.
+2. Run `node scripts/map-csv-to-fencecrete-geojson.mjs path/to/export.csv` (writes `public/data/fencecrete-jobs.geojson` by default).
+3. Restart `npm run dev` and turn **Fencecrete jobs** on.
+
+Rows with blank or non-finite Lat/Lng are skipped. Coordinates are never invented or geocoded. A project URL (`https://ops.fencecrete.com/projects/{id}`) is written only when `id` is present. Clicking a pin or its card opens that URL in a new tab.
+
+Photorealistic 3D still uses the same Cesium ion token or Google Maps key as upstream GEV. See [Keys & Costs](#-api-keys). Do not commit those keys.
+
 ---
 
 ## 🎖️ Field Missions

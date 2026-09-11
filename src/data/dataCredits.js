@@ -175,6 +175,12 @@ export const DATA_CREDITS = [
       '<a href="https://www.submarinecablemap.com" target="_blank" rel="noopener">submarinecablemap.com</a> ' +
       '(CC BY-NC-SA 3.0 — NonCommercial)',
   },
+  {
+    key: 'fencecrete-jobs',
+    html:
+      'Fencecrete job pins (sample): static Command Center /map export — ' +
+      '<a href="https://ops.fencecrete.com" target="_blank" rel="noopener">ops.fencecrete.com</a>',
+  },
 ];
 
 /**

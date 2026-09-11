@@ -176,6 +176,9 @@ const LAYER_ALIASES = new Map([
   ['firms', 'local-firms'],
   ['fires', 'local-firms'],
   ['active fires', 'local-firms'],
+  ['fencecrete', 'fencecrete-jobs'],
+  ['fencecrete jobs', 'fencecrete-jobs'],
+  ['fencecrete job pins', 'fencecrete-jobs'],
 ]);
 
 const CITY_ALIASES = new Map([
