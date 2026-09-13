@@ -3,30 +3,4047 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-95.4807, 29.5994] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5779557,
+          29.5549914
+        ]
+      },
       "properties": {
-        "id": "268ebe83-e7a5-4f30-8ef4-d2c473fb302c",
-        "job_number": "26H055",
-        "job_name": "Houston Plant",
-        "status": "production_queue",
-        "market": "Houston",
-        "coords_source": "manual",
-        "url": "https://ops.fencecrete.com/projects/268ebe83-e7a5-4f30-8ef4-d2c473fb302c",
-        "_sample": true
+        "id": "9376d60d-2975-413f-8d33-2b798288f113",
+        "url": "https://ops.fencecrete.com/projects/9376d60d-2975-413f-8d33-2b798288f113",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "Vega Ruben",
+        "job_number": "10005",
+        "coords_source": "geocoded"
       }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-98.6122, 29.5849] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5415463,
+          29.5374924
+        ]
+      },
+      "properties": {
+        "id": "939565b8-2a42-451c-b6dd-1807e784509b",
+        "url": "https://ops.fencecrete.com/projects/939565b8-2a42-451c-b6dd-1807e784509b",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "Cecconi, Mark",
+        "job_number": "10038",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6883502,
+          29.4450456
+        ]
+      },
+      "properties": {
+        "id": "18f31fa5-adaf-4dcb-9db2-1c6fb68bd7b7",
+        "url": "https://ops.fencecrete.com/projects/18f31fa5-adaf-4dcb-9db2-1c6fb68bd7b7",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "Jimenez, Gloria",
+        "job_number": "10040",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.356424,
+          29.524522
+        ]
+      },
+      "properties": {
+        "id": "2c6ba86c-40a3-4f31-9a12-9e6c8c43993f",
+        "url": "https://ops.fencecrete.com/projects/2c6ba86c-40a3-4f31-9a12-9e6c8c43993f",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "Martinez, Roberto",
+        "job_number": "10093",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.430294,
+          29.809618
+        ]
+      },
+      "properties": {
+        "id": "c0648a9b-cc65-46e8-a983-cb5f63f150eb",
+        "url": "https://ops.fencecrete.com/projects/c0648a9b-cc65-46e8-a983-cb5f63f150eb",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "Southers, Frank",
+        "job_number": "101103",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4586616,
+          29.4961028
+        ]
+      },
+      "properties": {
+        "id": "9c2025dc-c7bd-4213-969d-503369b9b4a6",
+        "url": "https://ops.fencecrete.com/projects/9c2025dc-c7bd-4213-969d-503369b9b4a6",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "Foster, Vikki",
+        "job_number": "10113",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0959836,
+          29.7210648
+        ]
+      },
+      "properties": {
+        "id": "b030ee35-eaa0-4ea0-9b6c-47323240ec00",
+        "url": "https://ops.fencecrete.com/projects/b030ee35-eaa0-4ea0-9b6c-47323240ec00",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "Estrada, Heather",
+        "job_number": "10116",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.423896,
+          29.654652
+        ]
+      },
+      "properties": {
+        "id": "2b78f324-2b49-4554-9a6c-901f6af92312",
+        "url": "https://ops.fencecrete.com/projects/2b78f324-2b49-4554-9a6c-901f6af92312",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "Powell, Ward",
+        "job_number": "10118",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.44329,
+          29.51275
+        ]
+      },
+      "properties": {
+        "id": "836eaad0-9698-47bf-9b52-10c2bca9fab6",
+        "url": "https://ops.fencecrete.com/projects/836eaad0-9698-47bf-9b52-10c2bca9fab6",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "Davis, Marlene",
+        "job_number": "10130",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5287893,
+          29.5306446
+        ]
+      },
+      "properties": {
+        "id": "d12c978d-fc0d-4bb1-990d-fdf62b12c8f6",
+        "url": "https://ops.fencecrete.com/projects/d12c978d-fc0d-4bb1-990d-fdf62b12c8f6",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "Barnes, Jay",
+        "job_number": "10142",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.438563,
+          29.87008
+        ]
+      },
+      "properties": {
+        "id": "c1a0d41c-ae40-4307-b15c-b8258ed366a3",
+        "url": "https://ops.fencecrete.com/projects/c1a0d41c-ae40-4307-b15c-b8258ed366a3",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "Biddison Homes",
+        "job_number": "10143",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6768214,
+          29.5049365
+        ]
+      },
+      "properties": {
+        "id": "8678b7a6-38c4-416f-8658-655f219e6c11",
+        "url": "https://ops.fencecrete.com/projects/8678b7a6-38c4-416f-8658-655f219e6c11",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "De Anda, Gil",
+        "job_number": "10145",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.504621607433,
+          29.4150226760823
+        ]
+      },
+      "properties": {
+        "id": "d8e8ebad-ca90-4453-ace1-2c3058efaedd",
+        "url": "https://ops.fencecrete.com/projects/d8e8ebad-ca90-4453-ace1-2c3058efaedd",
+        "market": "SA",
+        "status": "cancelled",
+        "job_name": "Sadanada, Dokuru",
+        "job_number": "10148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.147808,
+          29.310084
+        ]
+      },
+      "properties": {
+        "id": "d5dc56f4-c183-4bc7-ad0c-c14b9a590e28",
+        "url": "https://ops.fencecrete.com/projects/d5dc56f4-c183-4bc7-ad0c-c14b9a590e28",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "Dennis, Randy & Suzy",
+        "job_number": "10149",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.461768,
+          29.658343
+        ]
+      },
+      "properties": {
+        "id": "1964675a-3793-4dc1-8e6e-c118d55bef4a",
+        "url": "https://ops.fencecrete.com/projects/1964675a-3793-4dc1-8e6e-c118d55bef4a",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "Koutny, Max",
+        "job_number": "10157",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4586616,
+          29.4961028
+        ]
+      },
+      "properties": {
+        "id": "8f936589-9818-4c2b-945c-e3d3ce8010e3",
+        "url": "https://ops.fencecrete.com/projects/8f936589-9818-4c2b-945c-e3d3ce8010e3",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "10159_Foster, Vikki K.",
+        "job_number": "10159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6398742,
+          29.4749736
+        ]
+      },
+      "properties": {
+        "id": "d3f6c8ec-98b8-4d97-9a4a-4d0fd3b522ed",
+        "url": "https://ops.fencecrete.com/projects/d3f6c8ec-98b8-4d97-9a4a-4d0fd3b522ed",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "10161_Garcia, Joe",
+        "job_number": "10161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.582525,
+          29.809831
+        ]
+      },
+      "properties": {
+        "id": "220644ed-b949-498e-a9a0-0a36007320cd",
+        "url": "https://ops.fencecrete.com/projects/220644ed-b949-498e-a9a0-0a36007320cd",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "10162_VieReck, Erik & Sherry",
+        "job_number": "10162",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.312142,
+          29.5899434
+        ]
+      },
+      "properties": {
+        "id": "aa7db1b4-1840-4a9b-87be-f17bd85ab09f",
+        "url": "https://ops.fencecrete.com/projects/aa7db1b4-1840-4a9b-87be-f17bd85ab09f",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "Friesenhahn, Janice",
+        "job_number": "10167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5421556,
+          29.4906097
+        ]
+      },
+      "properties": {
+        "id": "55640cc1-01a7-462a-8483-b46bbdc013f1",
+        "url": "https://ops.fencecrete.com/projects/55640cc1-01a7-462a-8483-b46bbdc013f1",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "Parckard, Laurie C",
+        "job_number": "10169",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4707139365522,
+          29.4394913125278
+        ]
+      },
+      "properties": {
+        "id": "f3342244-74aa-4b15-b66a-892a992b0056",
+        "url": "https://ops.fencecrete.com/projects/f3342244-74aa-4b15-b66a-892a992b0056",
+        "market": "SA",
+        "status": "cancelled",
+        "job_name": "Stobaugh, Alan",
+        "job_number": "10173"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.598672,
+          29.550138
+        ]
+      },
+      "properties": {
+        "id": "ac97eb9d-b201-4a37-b334-9e68dac14c21",
+        "url": "https://ops.fencecrete.com/projects/ac97eb9d-b201-4a37-b334-9e68dac14c21",
+        "market": "SA",
+        "status": "fully_complete",
+        "job_name": "Tavernini, Lucio",
+        "job_number": "10180",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.171087,
+          29.62182
+        ]
+      },
+      "properties": {
+        "id": "d5e060f4-38a7-46e1-b749-e278062e1711",
+        "url": "https://ops.fencecrete.com/projects/d5e060f4-38a7-46e1-b749-e278062e1711",
+        "market": "SA",
+        "status": "fully_complete",
+        "job_name": "Capparra, Ric",
+        "job_number": "10184",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.459865,
+          29.511505
+        ]
+      },
+      "properties": {
+        "id": "3b430798-d782-4098-8784-f1d60d0a10e7",
+        "url": "https://ops.fencecrete.com/projects/3b430798-d782-4098-8784-f1d60d0a10e7",
+        "market": "SA",
+        "status": "fully_complete",
+        "job_name": "10187_Garcia, Eduardo",
+        "job_number": "10187",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.50183,
+          29.58052
+        ]
+      },
+      "properties": {
+        "id": "6881fa77-761d-4547-b713-73ac63377e8b",
+        "url": "https://ops.fencecrete.com/projects/6881fa77-761d-4547-b713-73ac63377e8b",
+        "market": "SA",
+        "status": "fully_complete",
+        "job_name": "10192_Sadanada, Dokuru",
+        "job_number": "10192",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4757264,
+          29.5823496
+        ]
+      },
+      "properties": {
+        "id": "c79f1661-9e7f-4edc-a1d9-0581623cc05e",
+        "url": "https://ops.fencecrete.com/projects/c79f1661-9e7f-4edc-a1d9-0581623cc05e",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "Israel Fogiel Project",
+        "job_number": "21S044",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6538373,
+          30.5440332
+        ]
+      },
+      "properties": {
+        "id": "86bea384-ea06-4c50-a7ac-43092259c740",
+        "url": "https://ops.fencecrete.com/projects/86bea384-ea06-4c50-a7ac-43092259c740",
+        "market": "AUS",
+        "status": "closed",
+        "job_name": "Meadow Lake",
+        "job_number": "22A027",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3783550204124,
+          29.740753791541
+        ]
+      },
+      "properties": {
+        "id": "26a69c3c-4eca-4864-a741-33e4a9ee3f1d",
+        "url": "https://ops.fencecrete.com/projects/26a69c3c-4eca-4864-a741-33e4a9ee3f1d",
+        "market": "HOU",
+        "status": "cancelled",
+        "job_name": "Smith Freddy Logan Park Dr",
+        "job_number": "22H022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1244106,
+          29.778791
+        ]
+      },
+      "properties": {
+        "id": "3a4bc54a-0172-4100-98a3-064cad72d70d",
+        "url": "https://ops.fencecrete.com/projects/3a4bc54a-0172-4100-98a3-064cad72d70d",
+        "market": "HOU",
+        "status": "closed",
+        "job_name": "Alexander Estates Rec Center",
+        "job_number": "22H047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3780546635858,
+          29.7852191843834
+        ]
+      },
+      "properties": {
+        "id": "ab503f5a-cb45-4fff-8ea1-d025c345c5f0",
+        "url": "https://ops.fencecrete.com/projects/ab503f5a-cb45-4fff-8ea1-d025c345c5f0",
+        "market": "HOU",
+        "status": "cancelled",
+        "job_name": "FBC MUD 250 WP 1 Ph 1",
+        "job_number": "22H066"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.299072,
+          30.005278
+        ]
+      },
+      "properties": {
+        "id": "8ede4e29-b73a-4f26-8ee6-e07876e2d615",
+        "url": "https://ops.fencecrete.com/projects/8ede4e29-b73a-4f26-8ee6-e07876e2d615",
+        "market": "HOU",
+        "status": "closed",
+        "job_name": "HC MUD 132 LS Site Improvements",
+        "job_number": "22H092",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.541665,
+          29.556405
+        ]
+      },
+      "properties": {
+        "id": "12dd8e05-9c98-4b3a-a976-c01b73c90c48",
+        "url": "https://ops.fencecrete.com/projects/12dd8e05-9c98-4b3a-a976-c01b73c90c48",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "Israel Fogiel 225' WI",
+        "job_number": "22S007",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8738182,
+          30.5175211
+        ]
+      },
+      "properties": {
+        "id": "253d4526-10a6-4c42-816e-bab3afae3347",
+        "url": "https://ops.fencecrete.com/projects/253d4526-10a6-4c42-816e-bab3afae3347",
+        "market": "AUS",
+        "status": "closed",
+        "job_name": "(Brushy Creek) BCRUA",
+        "job_number": "23A011",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.648026,
+          30.161146
+        ]
+      },
+      "properties": {
+        "id": "3195e0c3-532a-4682-80c0-bb8a31b6ac58",
+        "url": "https://ops.fencecrete.com/projects/3195e0c3-532a-4682-80c0-bb8a31b6ac58",
+        "market": "AUS",
+        "status": "closed",
+        "job_name": "ATX 130 Industrial",
+        "job_number": "23A018",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3495318,
+          30.6684445
+        ]
+      },
+      "properties": {
+        "id": "4be7c879-4900-4d27-967a-62080095c31d",
+        "url": "https://ops.fencecrete.com/projects/4be7c879-4900-4d27-967a-62080095c31d",
+        "market": "CS",
+        "status": "closed",
+        "job_name": "Byran Administration Building",
+        "job_number": "23CS03",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.719306,
+          29.846851
+        ]
+      },
+      "properties": {
+        "id": "77221071-5605-475d-b332-3a1a4da54e8b",
+        "url": "https://ops.fencecrete.com/projects/77221071-5605-475d-b332-3a1a4da54e8b",
+        "market": "HOU",
+        "status": "fence_complete",
+        "job_name": "WHCRWA Central Pump Station",
+        "job_number": "23H017",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3830145135052,
+          29.7430506556346
+        ]
+      },
+      "properties": {
+        "id": "b610f05c-8ff0-4db4-9099-caab1dd73c00",
+        "url": "https://ops.fencecrete.com/projects/b610f05c-8ff0-4db4-9099-caab1dd73c00",
+        "market": "HOU",
+        "status": "closed",
+        "job_name": "HC MUD 188 WP No 2",
+        "job_number": "23H097"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.492782874915,
+          29.4170099650539
+        ]
+      },
+      "properties": {
+        "id": "1dab673f-9c3d-4696-8240-718b267ee040",
+        "url": "https://ops.fencecrete.com/projects/1dab673f-9c3d-4696-8240-718b267ee040",
+        "market": "SA",
+        "status": "fully_complete",
+        "job_name": "Brooks City Base",
+        "job_number": "23S029",
+        "coords_source": "manual"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.763642,
+          30.552773
+        ]
+      },
+      "properties": {
+        "id": "143109ad-4183-4aa5-8e78-dcb826d25e19",
+        "url": "https://ops.fencecrete.com/projects/143109ad-4183-4aa5-8e78-dcb826d25e19",
+        "market": "AUS",
+        "status": "closed",
+        "job_name": "Mayfield Office Park",
+        "job_number": "24A004",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7667477532896,
+          30.2820235380269
+        ]
+      },
+      "properties": {
+        "id": "4c3b2294-3245-4bcf-9d2c-c96ddbb7c940",
+        "url": "https://ops.fencecrete.com/projects/4c3b2294-3245-4bcf-9d2c-c96ddbb7c940",
+        "market": "AUS",
+        "status": "cancelled",
+        "job_name": "Retreat at Mallard",
+        "job_number": "24A005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.648541,
+          31.069249
+        ]
+      },
+      "properties": {
+        "id": "7be46574-97b5-42f4-9a9f-68cc9e192df7",
+        "url": "https://ops.fencecrete.com/projects/7be46574-97b5-42f4-9a9f-68cc9e192df7",
+        "market": "AUS",
+        "status": "fence_complete",
+        "job_name": "Harker Heights WPS",
+        "job_number": "24A020",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.37674,
+          30.34688
+        ]
+      },
+      "properties": {
+        "id": "5ed7b72b-4575-4cdc-8c84-1382d1e0835a",
+        "url": "https://ops.fencecrete.com/projects/5ed7b72b-4575-4cdc-8c84-1382d1e0835a",
+        "market": "AUS",
+        "status": "production_queue",
+        "job_name": "The Katy at Elgin",
+        "job_number": "24A028",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6850185,
+          30.2770781
+        ]
+      },
+      "properties": {
+        "id": "e85beb72-e4e2-4bd1-a69d-d521291e70fc",
+        "url": "https://ops.fencecrete.com/projects/e85beb72-e4e2-4bd1-a69d-d521291e70fc",
+        "market": "AUS",
+        "status": "cancelled",
+        "job_name": "The Arden",
+        "job_number": "24A029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.851551,
+          30.744906
+        ]
+      },
+      "properties": {
+        "id": "5e9b1b3c-a316-492e-b0f7-932a93f81fa8",
+        "url": "https://ops.fencecrete.com/projects/5e9b1b3c-a316-492e-b0f7-932a93f81fa8",
+        "market": "AUS",
+        "status": "production_queue",
+        "job_name": "Daniels Mountain Pump Station",
+        "job_number": "24A030",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.86812,
+          30.01749
+        ]
+      },
+      "properties": {
+        "id": "3d851c25-28c5-42a3-a81b-3118c7ce6b7a",
+        "url": "https://ops.fencecrete.com/projects/3d851c25-28c5-42a3-a81b-3118c7ce6b7a",
+        "market": "AUS",
+        "status": "active_install",
+        "job_name": "Kyle FM 1626 Pump Station #224055",
+        "job_number": "24A036",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.445109,
+          30.609228
+        ]
+      },
+      "properties": {
+        "id": "9afd8dff-6b66-4b94-a01a-b38bd5a8819a",
+        "url": "https://ops.fencecrete.com/projects/9afd8dff-6b66-4b94-a01a-b38bd5a8819a",
+        "market": "CS",
+        "status": "fully_complete",
+        "job_name": "Westside Interceptor LS Improv.",
+        "job_number": "24CS02",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6849355,
+          32.7888213
+        ]
+      },
+      "properties": {
+        "id": "12a21f07-abd9-436d-8643-8b7067d0135c",
+        "url": "https://ops.fencecrete.com/projects/12a21f07-abd9-436d-8643-8b7067d0135c",
+        "market": "DFW",
+        "status": "closed",
+        "job_name": "Joe V's",
+        "job_number": "24D006",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.627263,
+          32.836685
+        ]
+      },
+      "properties": {
+        "id": "18255ac7-c79f-4305-976d-a46a357eaf40",
+        "url": "https://ops.fencecrete.com/projects/18255ac7-c79f-4305-976d-a46a357eaf40",
+        "market": "DFW",
+        "status": "closed",
+        "job_name": "Wooded Lake Apartments",
+        "job_number": "24D012",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.847586,
+          29.841451
+        ]
+      },
+      "properties": {
+        "id": "aff298db-adb3-4865-ba50-4c9f51c8fd79",
+        "url": "https://ops.fencecrete.com/projects/aff298db-adb3-4865-ba50-4c9f51c8fd79",
+        "market": "HOU",
+        "status": "active_install",
+        "job_name": "Cotton Bayou WWTP # 389",
+        "job_number": "24H003",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.52033,
+          29.67735
+        ]
+      },
+      "properties": {
+        "id": "75046c34-f11c-48fd-8c96-1479c84cac42",
+        "url": "https://ops.fencecrete.com/projects/75046c34-f11c-48fd-8c96-1479c84cac42",
+        "market": "HOU",
+        "status": "fence_complete",
+        "job_name": "BraeBurn Country Club",
+        "job_number": "24H043",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3450145830964,
+          29.7387451796621
+        ]
+      },
+      "properties": {
+        "id": "ef56cb32-2b15-4e9f-a800-c103c854c4df",
+        "url": "https://ops.fencecrete.com/projects/ef56cb32-2b15-4e9f-a800-c103c854c4df",
+        "market": "HOU",
+        "status": "cancelled",
+        "job_name": "Elyson Section 58",
+        "job_number": "24H054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.377311,
+          30.21683
+        ]
+      },
+      "properties": {
+        "id": "37cfe812-9186-457e-9c97-de39c306e19d",
+        "url": "https://ops.fencecrete.com/projects/37cfe812-9186-457e-9c97-de39c306e19d",
+        "market": "HOU",
+        "status": "closed",
+        "job_name": "Evergreen Sec 4",
+        "job_number": "24H060",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3641171683873,
+          29.7428913393261
+        ]
+      },
+      "properties": {
+        "id": "bb43a2e8-b910-4049-90f1-cc0a11b6af2b",
+        "url": "https://ops.fencecrete.com/projects/bb43a2e8-b910-4049-90f1-cc0a11b6af2b",
+        "market": "HOU",
+        "status": "closed",
+        "job_name": "Sycamore Heights Amenity Center # 20200850",
+        "job_number": "24H063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.505903,
+          30.139248
+        ]
+      },
+      "properties": {
+        "id": "ae5f056e-477a-4b58-8a5d-a36e1c73bb83",
+        "url": "https://ops.fencecrete.com/projects/ae5f056e-477a-4b58-8a5d-a36e1c73bb83",
+        "market": "HOU",
+        "status": "closed",
+        "job_name": "Elyson Commuity",
+        "job_number": "24H068",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.55994,
+          29.90182
+        ]
+      },
+      "properties": {
+        "id": "671cd5f3-09a3-4c88-bd38-09d109fbf56c",
+        "url": "https://ops.fencecrete.com/projects/671cd5f3-09a3-4c88-bd38-09d109fbf56c",
+        "market": "HOU",
+        "status": "fully_complete",
+        "job_name": "WCH MUD No. 11 WP No. 1 # 241-080-11 (L)",
+        "job_number": "24H079",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8348361,
+          29.6969541
+        ]
+      },
+      "properties": {
+        "id": "a6a52a54-e4ba-40ac-90bf-c4420ea33ed1",
+        "url": "https://ops.fencecrete.com/projects/a6a52a54-e4ba-40ac-90bf-c4420ea33ed1",
+        "market": "HOU",
+        "status": "cancelled",
+        "job_name": "Dunham Pointe Sec 8",
+        "job_number": "24H082"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.606347,
+          29.999299
+        ]
+      },
+      "properties": {
+        "id": "4cb68879-97cd-4cc2-8528-0590b1293278",
+        "url": "https://ops.fencecrete.com/projects/4cb68879-97cd-4cc2-8528-0590b1293278",
+        "market": "HOU",
+        "status": "production_queue",
+        "job_name": "Faulkey Gully MUD WTP Ph 2",
+        "job_number": "24H084",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7251443,
+          29.797366
+        ]
+      },
+      "properties": {
+        "id": "9da12b59-cd2f-45f6-a9f9-65d229aa5921",
+        "url": "https://ops.fencecrete.com/projects/9da12b59-cd2f-45f6-a9f9-65d229aa5921",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "Crownridge Manar",
+        "job_number": "24S001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2320652,
+          29.5260109
+        ]
+      },
+      "properties": {
+        "id": "6db2e785-b611-427b-b4e8-bf5e755989eb",
+        "url": "https://ops.fencecrete.com/projects/6db2e785-b611-427b-b4e8-bf5e755989eb",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "Saddlebrook Ranch Unit 1",
+        "job_number": "24S005",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.986882,
+          29.587543
+        ]
+      },
+      "properties": {
+        "id": "c1c5f66a-b9e5-425a-93d8-5ac0d59e2329",
+        "url": "https://ops.fencecrete.com/projects/c1c5f66a-b9e5-425a-93d8-5ac0d59e2329",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "Seguin West Booster Station #1703-S4.01",
+        "job_number": "24S012",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.233663,
+          29.526465
+        ]
+      },
+      "properties": {
+        "id": "b6b6086f-de12-4682-910b-95945f02d6f1",
+        "url": "https://ops.fencecrete.com/projects/b6b6086f-de12-4682-910b-95945f02d6f1",
+        "market": "SA",
+        "status": "fully_complete",
+        "job_name": "Saddlebrook Ranch Unit 2",
+        "job_number": "24S016",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.951679,
+          29.593678
+        ]
+      },
+      "properties": {
+        "id": "91b2fe40-35d8-4e0d-8afe-7081d0030a9a",
+        "url": "https://ops.fencecrete.com/projects/91b2fe40-35d8-4e0d-8afe-7081d0030a9a",
+        "market": "SA",
+        "status": "fully_complete",
+        "job_name": "Crossroads Blvd. LS",
+        "job_number": "24S041",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7240489427344,
+          30.2667228305545
+        ]
+      },
+      "properties": {
+        "id": "deeeaa0f-3683-4625-b879-e0cf66d60301",
+        "url": "https://ops.fencecrete.com/projects/deeeaa0f-3683-4625-b879-e0cf66d60301",
+        "market": "AUS",
+        "status": "closed",
+        "job_name": "Leander Union # 224.13",
+        "job_number": "25A008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.51559,
+          30.35151
+        ]
+      },
+      "properties": {
+        "id": "b789c668-9db9-4787-90de-367903502b69",
+        "url": "https://ops.fencecrete.com/projects/b789c668-9db9-4787-90de-367903502b69",
+        "market": "AUS",
+        "status": "fence_complete",
+        "job_name": "Presidential Glen Storage #2501-S41B",
+        "job_number": "25A009",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.145905,
+          33.190307
+        ]
+      },
+      "properties": {
+        "id": "17e512be-8a7e-471c-9337-da3022110d23",
+        "url": "https://ops.fencecrete.com/projects/17e512be-8a7e-471c-9337-da3022110d23",
+        "market": "AUS",
+        "status": "fully_complete",
+        "job_name": "Denton ISD - Borman ES #25009-0",
+        "job_number": "25A010",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.852403,
+          29.951247
+        ]
+      },
+      "properties": {
+        "id": "2c4dcd9e-3212-42ee-821c-fa339ab0ede4",
+        "url": "https://ops.fencecrete.com/projects/2c4dcd9e-3212-42ee-821c-fa339ab0ede4",
+        "market": "AUS",
+        "status": "active_install",
+        "job_name": "CR 158 Pump Station",
+        "job_number": "25A011",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.812609,
+          30.465039
+        ]
+      },
+      "properties": {
+        "id": "a0837fba-8712-4e31-adf4-0f46bbadc9a6",
+        "url": "https://ops.fencecrete.com/projects/a0837fba-8712-4e31-adf4-0f46bbadc9a6",
+        "market": "AUS",
+        "status": "fence_complete",
+        "job_name": "Freehill - Cedar Park WO# 24110-32007",
+        "job_number": "25A012",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.562464,
+          30.343096
+        ]
+      },
+      "properties": {
+        "id": "03fd5335-cc24-4039-8859-0c37f4c8b0dd",
+        "url": "https://ops.fencecrete.com/projects/03fd5335-cc24-4039-8859-0c37f4c8b0dd",
+        "market": "AUS",
+        "status": "fully_complete",
+        "job_name": "Reserves at Las Entradas",
+        "job_number": "25A016",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.567858,
+          30.43412
+        ]
+      },
+      "properties": {
+        "id": "5d3cdb67-2636-4321-9e11-002d0c8b5909",
+        "url": "https://ops.fencecrete.com/projects/5d3cdb67-2636-4321-9e11-002d0c8b5909",
+        "market": "AUS",
+        "status": "active_install",
+        "job_name": "Pflugerville WTP Expansion # P5I",
+        "job_number": "25A023",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.53538,
+          30.35708
+        ]
+      },
+      "properties": {
+        "id": "1541d0a5-c3ae-45dc-b98e-c98b99825387",
+        "url": "https://ops.fencecrete.com/projects/1541d0a5-c3ae-45dc-b98e-c98b99825387",
+        "market": "AUS",
+        "status": "fully_complete",
+        "job_name": "Shadow Glen Fence # 116383",
+        "job_number": "25A024",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.63597,
+          30.548759
+        ]
+      },
+      "properties": {
+        "id": "8e5a9ad0-62ac-4b38-bb54-7b3d307136a7",
+        "url": "https://ops.fencecrete.com/projects/8e5a9ad0-62ac-4b38-bb54-7b3d307136a7",
+        "market": "AUS",
+        "status": "fence_complete",
+        "job_name": "Townhomes at Old Settlers #001",
+        "job_number": "25A025",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.673596,
+          30.608067
+        ]
+      },
+      "properties": {
+        "id": "246566a3-ee3c-49dc-873b-d16ca4cb43f9",
+        "url": "https://ops.fencecrete.com/projects/246566a3-ee3c-49dc-873b-d16ca4cb43f9",
+        "market": "AUS",
+        "status": "closed",
+        "job_name": "SE Inner Loop Industrial #50032",
+        "job_number": "25A026",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8504609,
+          30.6574565
+        ]
+      },
+      "properties": {
+        "id": "b649c028-8cc1-4580-8784-26ee7495f67f",
+        "url": "https://ops.fencecrete.com/projects/b649c028-8cc1-4580-8784-26ee7495f67f",
+        "market": "AUS",
+        "status": "closed",
+        "job_name": "Santa Rita - 513 Bella Luna Way",
+        "job_number": "25A027",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.677852,
+          30.610102
+        ]
+      },
+      "properties": {
+        "id": "9d7cfd68-833d-4a12-9d2f-e2daafd7a514",
+        "url": "https://ops.fencecrete.com/projects/9d7cfd68-833d-4a12-9d2f-e2daafd7a514",
+        "market": "AUS",
+        "status": "closed",
+        "job_name": "Inner Peace Corporate Center-INP-2505",
+        "job_number": "25A028",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.609553,
+          30.553841
+        ]
+      },
+      "properties": {
+        "id": "6ee5e78b-4a32-47d1-b0c9-51b74a7362d8",
+        "url": "https://ops.fencecrete.com/projects/6ee5e78b-4a32-47d1-b0c9-51b74a7362d8",
+        "market": "AUS",
+        "status": "production_queue",
+        "job_name": "Chester Ranch",
+        "job_number": "25A029",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.41192,
+          30.36404
+        ]
+      },
+      "properties": {
+        "id": "9138852e-05cf-420c-a438-9c1faa7fa92d",
+        "url": "https://ops.fencecrete.com/projects/9138852e-05cf-420c-a438-9c1faa7fa92d",
+        "market": "AUS",
+        "status": "active_install",
+        "job_name": "Briarwood Ph 2",
+        "job_number": "25A030",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.666903,
+          30.538732
+        ]
+      },
+      "properties": {
+        "id": "00995e9a-956b-44c0-9225-c83da391d75e",
+        "url": "https://ops.fencecrete.com/projects/00995e9a-956b-44c0-9225-c83da391d75e",
+        "market": "AUS",
+        "status": "production_queue",
+        "job_name": "Old Settler Retail",
+        "job_number": "25A031",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7204470458166,
+          30.2531070486143
+        ]
+      },
+      "properties": {
+        "id": "61772fc0-ec6c-43ea-ba8f-160f5f997619",
+        "url": "https://ops.fencecrete.com/projects/61772fc0-ec6c-43ea-ba8f-160f5f997619",
+        "market": "AUS",
+        "status": "closed",
+        "job_name": "Cherokee Manufacturing #24-787",
+        "job_number": "25A034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8550248,
+          30.1298667
+        ]
+      },
+      "properties": {
+        "id": "b014ce6c-7d7c-49b7-bb99-ed36135a1ecf",
+        "url": "https://ops.fencecrete.com/projects/b014ce6c-7d7c-49b7-bb99-ed36135a1ecf",
+        "market": "AUS",
+        "status": "closed",
+        "job_name": "Big Valley MF #356",
+        "job_number": "25A043",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.883554,
+          30.242585
+        ]
+      },
+      "properties": {
+        "id": "b4a3b7a7-5d09-459f-8401-4c0aa1860ead",
+        "url": "https://ops.fencecrete.com/projects/b4a3b7a7-5d09-459f-8401-4c0aa1860ead",
+        "market": "AUS",
+        "status": "active_install",
+        "job_name": "Pearl Oak Hill #251-139",
+        "job_number": "25A044",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.811284,
+          30.540127
+        ]
+      },
+      "properties": {
+        "id": "bcbb6301-9c7d-4cb2-b52a-a843b4a47983",
+        "url": "https://ops.fencecrete.com/projects/bcbb6301-9c7d-4cb2-b52a-a843b4a47983",
+        "market": "AUS",
+        "status": "fence_complete",
+        "job_name": "Cedar Tech - Leander #ATX041-3450",
+        "job_number": "25A046",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.84337,
+          30.062
+        ]
+      },
+      "properties": {
+        "id": "90ec13ae-84f5-4ea6-8be6-c0773256e136",
+        "url": "https://ops.fencecrete.com/projects/90ec13ae-84f5-4ea6-8be6-c0773256e136",
+        "market": "AUS",
+        "status": "in_production",
+        "job_name": "South Austin Commerce Center, Ph 1  #CSi-1",
+        "job_number": "25A047",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7361374409579,
+          30.2872627894336
+        ]
+      },
+      "properties": {
+        "id": "46db1ca7-16f0-4c02-9b56-883fbd36ed5c",
+        "url": "https://ops.fencecrete.com/projects/46db1ca7-16f0-4c02-9b56-883fbd36ed5c",
+        "market": "AUS",
+        "status": "cancelled",
+        "job_name": "Flatz 432 Ph #2",
+        "job_number": "25A048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.405045,
+          30.363265
+        ]
+      },
+      "properties": {
+        "id": "1c1d68df-1f8f-400c-b582-053c036ccb87",
+        "url": "https://ops.fencecrete.com/projects/1c1d68df-1f8f-400c-b582-053c036ccb87",
+        "market": "AUS",
+        "status": "active_install",
+        "job_name": "Cedar Grove",
+        "job_number": "25A049",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.291068,
+          30.71269
+        ]
+      },
+      "properties": {
+        "id": "edbe0935-e48f-46af-8f9c-d84a099e6bc4",
+        "url": "https://ops.fencecrete.com/projects/edbe0935-e48f-46af-8f9c-d84a099e6bc4",
+        "market": "CS",
+        "status": "closed",
+        "job_name": "Eastside Lift Station #25-101",
+        "job_number": "25CS01",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8156262149852,
+          32.7612065872979
+        ]
+      },
+      "properties": {
+        "id": "b2d217c2-8803-43ad-addc-8ffeef6161b2",
+        "url": "https://ops.fencecrete.com/projects/b2d217c2-8803-43ad-addc-8ffeef6161b2",
+        "market": "DFW",
+        "status": "closed",
+        "job_name": "Silicon Valley",
+        "job_number": "25D001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.040574,
+          32.693778
+        ]
+      },
+      "properties": {
+        "id": "c2662ecc-23c5-4747-9767-ddca89699f53",
+        "url": "https://ops.fencecrete.com/projects/c2662ecc-23c5-4747-9767-ddca89699f53",
+        "market": "DFW",
+        "status": "active_install",
+        "job_name": "Jefferson Kirbybrook #DWF220004mw50-025",
+        "job_number": "25D008",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.73316,
+          32.79234
+        ]
+      },
+      "properties": {
+        "id": "a864562c-ba6e-48ec-b27f-5ae1c613481d",
+        "url": "https://ops.fencecrete.com/projects/a864562c-ba6e-48ec-b27f-5ae1c613481d",
+        "market": "DFW",
+        "status": "contract_review",
+        "job_name": "Tension Lofts",
+        "job_number": "25D009",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0762302,
+          32.8208109
+        ]
+      },
+      "properties": {
+        "id": "997c6f5b-b7cb-4f78-a2e6-a07391f3fc5d",
+        "url": "https://ops.fencecrete.com/projects/997c6f5b-b7cb-4f78-a2e6-a07391f3fc5d",
+        "market": "DFW",
+        "status": "active_install",
+        "job_name": "Givens Trinity Bldg # SC-25-010119-021",
+        "job_number": "25D010",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.94535,
+          33.400329
+        ]
+      },
+      "properties": {
+        "id": "70c2f1a5-95fb-448d-8c26-4ecb3138c5eb",
+        "url": "https://ops.fencecrete.com/projects/70c2f1a5-95fb-448d-8c26-4ecb3138c5eb",
+        "market": "DFW",
+        "status": "closed",
+        "job_name": "1.0 MG Elevated Water Storage Tank (Pilot Point)",
+        "job_number": "25D011",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.92133,
+          32.92005
+        ]
+      },
+      "properties": {
+        "id": "75656058-f672-4578-b4a7-352a3fd2abb1",
+        "url": "https://ops.fencecrete.com/projects/75656058-f672-4578-b4a7-352a3fd2abb1",
+        "market": "DFW",
+        "status": "fence_complete",
+        "job_name": "1751 Valley View # 70297",
+        "job_number": "25D013",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3562322482222,
+          29.7798328748209
+        ]
+      },
+      "properties": {
+        "id": "c1c5d2c3-8f7c-4001-8a80-55798d86fd51",
+        "url": "https://ops.fencecrete.com/projects/c1c5d2c3-8f7c-4001-8a80-55798d86fd51",
+        "market": "HOU",
+        "status": "closed",
+        "job_name": "Sheldon Ridge LS # 805-04",
+        "job_number": "25H004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3508364127235,
+          29.7719843695801
+        ]
+      },
+      "properties": {
+        "id": "c7960ee7-57f7-4e95-856c-f90caa90b595",
+        "url": "https://ops.fencecrete.com/projects/c7960ee7-57f7-4e95-856c-f90caa90b595",
+        "market": "HOU",
+        "status": "closed",
+        "job_name": "Meridiana Pump Enclosures",
+        "job_number": "25H006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.581751,
+          29.550958
+        ]
+      },
+      "properties": {
+        "id": "4e8697e7-ee90-407b-ad1e-ecd9147f543d",
+        "url": "https://ops.fencecrete.com/projects/4e8697e7-ee90-407b-ad1e-ecd9147f543d",
+        "market": "HOU",
+        "status": "fence_complete",
+        "job_name": "Monet Estates",
+        "job_number": "25H013",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3752335497587,
+          29.7390316854447
+        ]
+      },
+      "properties": {
+        "id": "6c92fc46-f08c-4589-b17a-414d6485cf18",
+        "url": "https://ops.fencecrete.com/projects/6c92fc46-f08c-4589-b17a-414d6485cf18",
+        "market": "HOU",
+        "status": "closed",
+        "job_name": "Mustang Meadows Ranch #840-23-03",
+        "job_number": "25H023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.05107,
+          29.421752
+        ]
+      },
+      "properties": {
+        "id": "2a7da6f5-694e-4da9-9e41-882aa64d8023",
+        "url": "https://ops.fencecrete.com/projects/2a7da6f5-694e-4da9-9e41-882aa64d8023",
+        "market": "HOU",
+        "status": "fence_complete",
+        "job_name": "Beacon Point Phase 2    #21039",
+        "job_number": "25H028",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.401647,
+          29.90701
+        ]
+      },
+      "properties": {
+        "id": "afacd437-7a24-4d54-a87e-e7e9ce7cfcc2",
+        "url": "https://ops.fencecrete.com/projects/afacd437-7a24-4d54-a87e-e7e9ce7cfcc2",
+        "market": "HOU",
+        "status": "fully_complete",
+        "job_name": "Little York FD # 2414",
+        "job_number": "25H035",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.305934,
+          29.51615
+        ]
+      },
+      "properties": {
+        "id": "e9921bd5-0e61-4979-b7e2-54432005a8be",
+        "url": "https://ops.fencecrete.com/projects/e9921bd5-0e61-4979-b7e2-54432005a8be",
+        "market": "HOU",
+        "status": "fully_complete",
+        "job_name": "Magnolia Forest LS #25-002",
+        "job_number": "25H036",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.512889,
+          29.544506
+        ]
+      },
+      "properties": {
+        "id": "62ce9381-e340-44df-8b03-d9a15269f5f6",
+        "url": "https://ops.fencecrete.com/projects/62ce9381-e340-44df-8b03-d9a15269f5f6",
+        "market": "HOU",
+        "status": "fully_complete",
+        "job_name": "Life Pointe Church",
+        "job_number": "25H037",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.512869,
+          29.996934
+        ]
+      },
+      "properties": {
+        "id": "3712ce38-4069-47a4-ba89-802ef12b9b63",
+        "url": "https://ops.fencecrete.com/projects/3712ce38-4069-47a4-ba89-802ef12b9b63",
+        "market": "HOU",
+        "status": "fully_complete",
+        "job_name": "Edinburgh Estates",
+        "job_number": "25H040",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.719958,
+          30.379349
+        ]
+      },
+      "properties": {
+        "id": "ce501720-4cdf-4d37-8a1c-b87936a5e531",
+        "url": "https://ops.fencecrete.com/projects/ce501720-4cdf-4d37-8a1c-b87936a5e531",
+        "market": "HOU",
+        "status": "closed",
+        "job_name": "Briarley Ph 1B Sections 1-3",
+        "job_number": "25H041",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.808908,
+          29.714329
+        ]
+      },
+      "properties": {
+        "id": "7d445e05-1b41-4d89-9f42-48a1fccfea45",
+        "url": "https://ops.fencecrete.com/projects/7d445e05-1b41-4d89-9f42-48a1fccfea45",
+        "market": "HOU",
+        "status": "fence_complete",
+        "job_name": "Wildrye Phase 1 # TL25010",
+        "job_number": "25H042",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2106436,
+          29.9982349
+        ]
+      },
+      "properties": {
+        "id": "73bb2a13-eb8b-4223-a69d-739cf6875378",
+        "url": "https://ops.fencecrete.com/projects/73bb2a13-eb8b-4223-a69d-739cf6875378",
+        "market": "HOU",
+        "status": "closed",
+        "job_name": "Woodland Hills Dumpster Enclosure",
+        "job_number": "25H043",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3546050966364,
+          29.7502477392465
+        ]
+      },
+      "properties": {
+        "id": "ca3d8941-6d13-4fb8-98d8-27c340bd6b5a",
+        "url": "https://ops.fencecrete.com/projects/ca3d8941-6d13-4fb8-98d8-27c340bd6b5a",
+        "market": "HOU",
+        "status": "closed",
+        "job_name": "Tamarron West Section 17",
+        "job_number": "25H048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3945188081526,
+          29.767259630413
+        ]
+      },
+      "properties": {
+        "id": "61cff993-0447-4d06-a3c3-64bc4ed7418b",
+        "url": "https://ops.fencecrete.com/projects/61cff993-0447-4d06-a3c3-64bc4ed7418b",
+        "market": "HOU",
+        "status": "closed",
+        "job_name": "Tamarron West Section 22B",
+        "job_number": "25H050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8503274,
+          29.6969597
+        ]
+      },
+      "properties": {
+        "id": "5afc6db8-4b35-4fed-8abc-c5f57243f491",
+        "url": "https://ops.fencecrete.com/projects/5afc6db8-4b35-4fed-8abc-c5f57243f491",
+        "market": "HOU",
+        "status": "closed",
+        "job_name": "Tamarron West Section 23",
+        "job_number": "25H051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3753456917928,
+          29.7789961847205
+        ]
+      },
+      "properties": {
+        "id": "ca7471a7-72c0-441e-9191-60867088bd13",
+        "url": "https://ops.fencecrete.com/projects/ca7471a7-72c0-441e-9191-60867088bd13",
+        "market": "HOU",
+        "status": "closed",
+        "job_name": "Tamarron West Section 24A",
+        "job_number": "25H052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.81451,
+          29.82749
+        ]
+      },
+      "properties": {
+        "id": "1d2b6185-f2bb-4eb5-845a-11cc4a224aa3",
+        "url": "https://ops.fencecrete.com/projects/1d2b6185-f2bb-4eb5-845a-11cc4a224aa3",
+        "market": "HOU",
+        "status": "fully_complete",
+        "job_name": "Gulfbelt Logistics Park LS #811-03",
+        "job_number": "25H056",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3627367568362,
+          29.7691843501063
+        ]
+      },
+      "properties": {
+        "id": "14243c88-1ace-47d3-9ac6-fbaccf63110b",
+        "url": "https://ops.fencecrete.com/projects/14243c88-1ace-47d3-9ac6-fbaccf63110b",
+        "market": "HOU",
+        "status": "closed",
+        "job_name": "Edgewood Sections 9 & 10  PO#000272",
+        "job_number": "25H059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.349289015204,
+          29.7652827969809
+        ]
+      },
+      "properties": {
+        "id": "3ae8cb3f-a671-4659-8eb0-588b47f75d2c",
+        "url": "https://ops.fencecrete.com/projects/3ae8cb3f-a671-4659-8eb0-588b47f75d2c",
+        "market": "HOU",
+        "status": "closed",
+        "job_name": "Grand Prairie Ph 7 (PC)",
+        "job_number": "25H063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.594831,
+          29.931977
+        ]
+      },
+      "properties": {
+        "id": "f3a86ee2-2e85-4273-9bcf-f9819458be6d",
+        "url": "https://ops.fencecrete.com/projects/f3a86ee2-2e85-4273-9bcf-f9819458be6d",
+        "market": "HOU",
+        "status": "fully_complete",
+        "job_name": "NHCRWA Project 35B # S250203-14",
+        "job_number": "25H064",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.361294,
+          29.764786
+        ]
+      },
+      "properties": {
+        "id": "9f532986-f55b-48d3-932f-6c6b673e60c4",
+        "url": "https://ops.fencecrete.com/projects/9f532986-f55b-48d3-932f-6c6b673e60c4",
+        "market": "HOU",
+        "status": "fully_complete",
+        "job_name": "The Trails Ph 2A",
+        "job_number": "25H065",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3582564757708,
+          29.7416928414943
+        ]
+      },
+      "properties": {
+        "id": "0caa1e9f-084c-4dc2-9128-a289617ede6a",
+        "url": "https://ops.fencecrete.com/projects/0caa1e9f-084c-4dc2-9128-a289617ede6a",
+        "market": "HOU",
+        "status": "closed",
+        "job_name": "Wildrye LS #1 SC-808-09",
+        "job_number": "25H068"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.35279372978,
+          29.7591939550872
+        ]
+      },
+      "properties": {
+        "id": "0fd69f5f-bb80-478e-9c83-4e6153af9be6",
+        "url": "https://ops.fencecrete.com/projects/0fd69f5f-bb80-478e-9c83-4e6153af9be6",
+        "market": "HOU",
+        "status": "closed",
+        "job_name": "Dunham Pointe Section 15",
+        "job_number": "25H070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.852435,
+          30.007239
+        ]
+      },
+      "properties": {
+        "id": "615ad566-1fba-46b4-a31d-80d49da8dadc",
+        "url": "https://ops.fencecrete.com/projects/615ad566-1fba-46b4-a31d-80d49da8dadc",
+        "market": "HOU",
+        "status": "fence_complete",
+        "job_name": "Grand Prairie Ph 8 (PC)",
+        "job_number": "25H076",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3690353570464,
+          29.7545959970096
+        ]
+      },
+      "properties": {
+        "id": "925a181b-b708-460d-ae7d-f1e4e36a55f4",
+        "url": "https://ops.fencecrete.com/projects/925a181b-b708-460d-ae7d-f1e4e36a55f4",
+        "market": "HOU",
+        "status": "closed",
+        "job_name": "Grand Prairie Ph 9 (PC)",
+        "job_number": "25H078"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.392223990412,
+          29.77253600993
+        ]
+      },
+      "properties": {
+        "id": "6b895ab4-9989-4962-92df-1755423a24ac",
+        "url": "https://ops.fencecrete.com/projects/6b895ab4-9989-4962-92df-1755423a24ac",
+        "market": "HOU",
+        "status": "closed",
+        "job_name": "HC MUD 171 LS No. 6 # 802-09",
+        "job_number": "25H080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3604778366321,
+          29.7656658113725
+        ]
+      },
+      "properties": {
+        "id": "bef4b1ad-2c05-422d-8596-9a97c3a23f3a",
+        "url": "https://ops.fencecrete.com/projects/bef4b1ad-2c05-422d-8596-9a97c3a23f3a",
+        "market": "HOU",
+        "status": "closed",
+        "job_name": "McDonald's #42-3450",
+        "job_number": "25H084"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.883598,
+          29.736808
+        ]
+      },
+      "properties": {
+        "id": "b2755949-3095-4883-86ba-7092ba807ea0",
+        "url": "https://ops.fencecrete.com/projects/b2755949-3095-4883-86ba-7092ba807ea0",
+        "market": "HOU",
+        "status": "fence_complete",
+        "job_name": "Tam III - Boilerplate",
+        "job_number": "25H085",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.649649,
+          29.908084
+        ]
+      },
+      "properties": {
+        "id": "4fc090f1-8c4e-4a12-8a13-9226bd3391f4",
+        "url": "https://ops.fencecrete.com/projects/4fc090f1-8c4e-4a12-8a13-9226bd3391f4",
+        "market": "HOU",
+        "status": "production_queue",
+        "job_name": "Telge Ranch West LS",
+        "job_number": "25H086",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.675716,
+          29.94733
+        ]
+      },
+      "properties": {
+        "id": "a48ef6da-6c49-4384-bdb1-8873f2fc89ad",
+        "url": "https://ops.fencecrete.com/projects/a48ef6da-6c49-4384-bdb1-8873f2fc89ad",
+        "market": "HOU",
+        "status": "production_queue",
+        "job_name": "HC MUD 165 LS No 18 #25-004",
+        "job_number": "25H089",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.807201,
+          29.874922
+        ]
+      },
+      "properties": {
+        "id": "ddb42303-08ce-45a7-aebc-8a30fd1b16a1",
+        "url": "https://ops.fencecrete.com/projects/ddb42303-08ce-45a7-aebc-8a30fd1b16a1",
+        "market": "HOU",
+        "status": "active_install",
+        "job_name": "HC MUD 171 WW No. 7",
+        "job_number": "25H090",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0922181,
+          29.3947891
+        ]
+      },
+      "properties": {
+        "id": "79bb751d-55fa-401e-9fbe-a9c8be5cc2d2",
+        "url": "https://ops.fencecrete.com/projects/79bb751d-55fa-401e-9fbe-a9c8be5cc2d2",
+        "market": "HOU",
+        "status": "fully_complete",
+        "job_name": "CenterPoint Energy Santa Fe # 22413",
+        "job_number": "25H096",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5140221561147,
+          29.4141960179365
+        ]
+      },
+      "properties": {
+        "id": "cb676f5d-dd9c-4950-85d6-3ee9b3c83d4b",
+        "url": "https://ops.fencecrete.com/projects/cb676f5d-dd9c-4950-85d6-3ee9b3c83d4b",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "Altura Amenity Center ",
+        "job_number": "25S001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.53522,
+          29.514389
+        ]
+      },
+      "properties": {
+        "id": "b994d0b3-8c25-4602-9de6-f04370602b6a",
+        "url": "https://ops.fencecrete.com/projects/b994d0b3-8c25-4602-9de6-f04370602b6a",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "Vance Jackson Industrial",
+        "job_number": "25S007",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.129814,
+          29.734523
+        ]
+      },
+      "properties": {
+        "id": "8703545f-79fc-49e9-9d9b-659c559bbddd",
+        "url": "https://ops.fencecrete.com/projects/8703545f-79fc-49e9-9d9b-659c559bbddd",
+        "market": "SA",
+        "status": "fully_complete",
+        "job_name": "NBU-Hueco Springs Substation # 657",
+        "job_number": "25S011",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.060392,
+          29.746436
+        ]
+      },
+      "properties": {
+        "id": "88dfb3a6-48cf-4908-8d8e-da2c938e502f",
+        "url": "https://ops.fencecrete.com/projects/88dfb3a6-48cf-4908-8d8e-da2c938e502f",
+        "market": "SA",
+        "status": "fence_complete",
+        "job_name": "Prose Lonesome Quail # 1-3242",
+        "job_number": "25S013",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.35708,
+          29.411392
+        ]
+      },
+      "properties": {
+        "id": "8b33f503-df2c-426d-8ab3-b046cc7f7922",
+        "url": "https://ops.fencecrete.com/projects/8b33f503-df2c-426d-8ab3-b046cc7f7922",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "Foster Commerce Center Bldg. 2",
+        "job_number": "25S017",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.281744,
+          29.447298
+        ]
+      },
+      "properties": {
+        "id": "7fc4d00f-581d-458c-8ce2-ff3a43223570",
+        "url": "https://ops.fencecrete.com/projects/7fc4d00f-581d-458c-8ce2-ff3a43223570",
+        "market": "SA",
+        "status": "fully_complete",
+        "job_name": "Oso Apartments #TOSOA1-934",
+        "job_number": "25S021",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.281293,
+          29.468382
+        ]
+      },
+      "properties": {
+        "id": "1d68a6c9-1f18-4446-ab89-3467f4c5ac05",
+        "url": "https://ops.fencecrete.com/projects/1d68a6c9-1f18-4446-ab89-3467f4c5ac05",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "Doogett FL San Antonio Site Demo #25-1740",
+        "job_number": "25S022",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.94385,
+          29.55712
+        ]
+      },
+      "properties": {
+        "id": "239ac6e3-dcad-44ac-bed1-fa79c42badcc",
+        "url": "https://ops.fencecrete.com/projects/239ac6e3-dcad-44ac-bed1-fa79c42badcc",
+        "market": "SA",
+        "status": "fully_complete",
+        "job_name": "Cottages at Nolte Farms",
+        "job_number": "25S023",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.066399,
+          29.680635
+        ]
+      },
+      "properties": {
+        "id": "d74af43d-1724-44cd-b310-d96f92c94954",
+        "url": "https://ops.fencecrete.com/projects/d74af43d-1724-44cd-b310-d96f92c94954",
+        "market": "SA",
+        "status": "fully_complete",
+        "job_name": "Green Development-Fence Improv.",
+        "job_number": "25S024",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3763381,
+          29.5419809
+        ]
+      },
+      "properties": {
+        "id": "b5a1c74e-7be4-46d2-9dc1-8aa1e83ec124",
+        "url": "https://ops.fencecrete.com/projects/b5a1c74e-7be4-46d2-9dc1-8aa1e83ec124",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "HoneyBucket",
+        "job_number": "25S026",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.27412,
+          29.59459
+        ]
+      },
+      "properties": {
+        "id": "d2bb21e8-fa3f-44c9-bfb6-a07008e984e7",
+        "url": "https://ops.fencecrete.com/projects/d2bb21e8-fa3f-44c9-bfb6-a07008e984e7",
+        "market": "SA",
+        "status": "fully_complete",
+        "job_name": "Forest Ridge Commercial Retail",
+        "job_number": "25S028",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.144538,
+          29.74815
+        ]
+      },
+      "properties": {
+        "id": "29a2108f-d0ed-41f9-aea7-9477cd649686",
+        "url": "https://ops.fencecrete.com/projects/29a2108f-d0ed-41f9-aea7-9477cd649686",
+        "market": "SA",
+        "status": "production_queue",
+        "job_name": "Veramendi Lift Station  #25-031",
+        "job_number": "25S031",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.638255,
+          29.622125
+        ]
+      },
+      "properties": {
+        "id": "c5877f85-d6f8-470e-a1a8-f08dfa224a79",
+        "url": "https://ops.fencecrete.com/projects/c5877f85-d6f8-470e-a1a8-f08dfa224a79",
+        "market": "SA",
+        "status": "in_production",
+        "job_name": "Summit at Crown Ridge",
+        "job_number": "25S033",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.545365,
+          29.31845
+        ]
+      },
+      "properties": {
+        "id": "9bc2a623-d299-4f7e-a5ad-157cfc8332e1",
+        "url": "https://ops.fencecrete.com/projects/9bc2a623-d299-4f7e-a5ad-157cfc8332e1",
+        "market": "SA",
+        "status": "production_queue",
+        "job_name": "The Orion Apartment Homes # 197",
+        "job_number": "25S035",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.811256,
+          29.771042
+        ]
+      },
+      "properties": {
+        "id": "4a8a3687-bd32-4c50-8de3-d22e9063492c",
+        "url": "https://ops.fencecrete.com/projects/4a8a3687-bd32-4c50-8de3-d22e9063492c",
+        "market": "SA",
+        "status": "fence_complete",
+        "job_name": "Tapatio Springs WWTP #3024090",
+        "job_number": "25S036",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5353392,
+          29.5129502
+        ]
+      },
+      "properties": {
+        "id": "e918e234-5b47-4f8d-9120-490c3be2d939",
+        "url": "https://ops.fencecrete.com/projects/e918e234-5b47-4f8d-9120-490c3be2d939",
+        "market": "SA",
+        "status": "cancelled",
+        "job_name": "Plumbers & Pipefitters Training Bldg  WO#25-176-028",
+        "job_number": "25S038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.647269,
+          31.053428
+        ]
+      },
+      "properties": {
+        "id": "81cbbb12-cad2-4c0a-9571-702f54c225bb",
+        "url": "https://ops.fencecrete.com/projects/81cbbb12-cad2-4c0a-9571-702f54c225bb",
+        "market": "AUS",
+        "status": "fully_complete",
+        "job_name": "Mighty Wash - Harker Heights",
+        "job_number": "26A001",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8434,
+          30.06964
+        ]
+      },
+      "properties": {
+        "id": "cc5620cd-5edd-4fe7-8244-b2fb7f83b96b",
+        "url": "https://ops.fencecrete.com/projects/cc5620cd-5edd-4fe7-8244-b2fb7f83b96b",
+        "market": "AUS",
+        "status": "production_queue",
+        "job_name": "Buda Gateway - PO#641-00",
+        "job_number": "26A005",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.58955,
+          30.58062
+        ]
+      },
+      "properties": {
+        "id": "5175b627-fa91-4af6-b2f3-f2d325a8782f",
+        "url": "https://ops.fencecrete.com/projects/5175b627-fa91-4af6-b2f3-f2d325a8782f",
+        "market": "AUS",
+        "status": "production_queue",
+        "job_name": "Republic Services Round Rock Transfer Station - SC#08-32.3217",
+        "job_number": "26A007",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.874012,
+          30.521596
+        ]
+      },
+      "properties": {
+        "id": "6833ae78-08c8-4d5d-b2e6-788ba2a85e06",
+        "url": "https://ops.fencecrete.com/projects/6833ae78-08c8-4d5d-b2e6-788ba2a85e06",
+        "market": "AUS",
+        "status": "production_queue",
+        "job_name": "BCRUA - Ph 2A WTP #2026CP6D00024",
+        "job_number": "26A008",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.84859,
+          30.556205
+        ]
+      },
+      "properties": {
+        "id": "a93a7ddb-e299-4b82-a001-c906f87b4080",
+        "url": "https://ops.fencecrete.com/projects/a93a7ddb-e299-4b82-a001-c906f87b4080",
+        "market": "AUS",
+        "status": "fully_complete",
+        "job_name": "Leander Retail Shell #3270001",
+        "job_number": "26A009",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8671427,
+          30.6507175
+        ]
+      },
+      "properties": {
+        "id": "88d1ef63-3b2c-4f9c-8dad-9f9122796807",
+        "url": "https://ops.fencecrete.com/projects/88d1ef63-3b2c-4f9c-8dad-9f9122796807",
+        "market": "AUS",
+        "status": "fence_complete",
+        "job_name": "7-Eleven #42393 - Job #25-1168",
+        "job_number": "26A010",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.842975,
+          30.085263
+        ]
+      },
+      "properties": {
+        "id": "b9c32e67-003e-400d-bd7c-2b4ff8278c9c",
+        "url": "https://ops.fencecrete.com/projects/b9c32e67-003e-400d-bd7c-2b4ff8278c9c",
+        "market": "AUS",
+        "status": "fence_complete",
+        "job_name": "City Of Buda Park - PO#26-1319",
+        "job_number": "26A012",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.686569,
+          30.410077
+        ]
+      },
+      "properties": {
+        "id": "4e4e4290-2715-4a11-8363-bd03140f6251",
+        "url": "https://ops.fencecrete.com/projects/4e4e4290-2715-4a11-8363-bd03140f6251",
+        "market": "AUS",
+        "status": "fully_complete",
+        "job_name": "Parmer Farms of North Austin",
+        "job_number": "26A014",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.826446,
+          30.678561
+        ]
+      },
+      "properties": {
+        "id": "f086b22e-bd93-47ae-8f68-2effc7585ffd",
+        "url": "https://ops.fencecrete.com/projects/f086b22e-bd93-47ae-8f68-2effc7585ffd",
+        "market": "AUS",
+        "status": "production_queue",
+        "job_name": "Santa Rita 2B Sec 2",
+        "job_number": "26A015",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5928407,
+          30.3228238
+        ]
+      },
+      "properties": {
+        "id": "0331a01d-7222-416d-8941-3256a0ff3e74",
+        "url": "https://ops.fencecrete.com/projects/0331a01d-7222-416d-8941-3256a0ff3e74",
+        "market": "AUS",
+        "status": "production_queue",
+        "job_name": "Wildhorse POD A Ph. 2A",
+        "job_number": "26A017",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.628532,
+          30.466375
+        ]
+      },
+      "properties": {
+        "id": "d080c1fb-1aa2-42be-a711-5b3999ff313d",
+        "url": "https://ops.fencecrete.com/projects/d080c1fb-1aa2-42be-a711-5b3999ff313d",
+        "market": "AUS",
+        "status": "production_queue",
+        "job_name": "Merit Pflugerville 17711 N Heatherwilde",
+        "job_number": "26A018",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.835119,
+          32.43804
+        ]
+      },
+      "properties": {
+        "id": "5a9cbe87-f3eb-4b4a-acb8-59f85c3462bd",
+        "url": "https://ops.fencecrete.com/projects/5a9cbe87-f3eb-4b4a-acb8-59f85c3462bd",
+        "market": "DFW",
+        "status": "fully_complete",
+        "job_name": "BJ's Waxahacie #40725-0027",
+        "job_number": "26D001",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.624616,
+          32.699454
+        ]
+      },
+      "properties": {
+        "id": "cef2b297-cc08-4f90-a365-e4e505f80c13",
+        "url": "https://ops.fencecrete.com/projects/cef2b297-cc08-4f90-a365-e4e505f80c13",
+        "market": "DFW",
+        "status": "fully_complete",
+        "job_name": "HIP Balch Springs #70310",
+        "job_number": "26D003",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.624814,
+          32.282348
+        ]
+      },
+      "properties": {
+        "id": "07cca136-bd6c-4092-ab76-5c5cda7f6013",
+        "url": "https://ops.fencecrete.com/projects/07cca136-bd6c-4092-ab76-5c5cda7f6013",
+        "market": "DFW",
+        "status": "active_install",
+        "job_name": "Prairie View 3A & 3B",
+        "job_number": "26D005",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.158635,
+          33.231091
+        ]
+      },
+      "properties": {
+        "id": "0eaa4c67-c4d1-4e53-abea-0307351f80c1",
+        "url": "https://ops.fencecrete.com/projects/0eaa4c67-c4d1-4e53-abea-0307351f80c1",
+        "market": "DFW",
+        "status": "production_queue",
+        "job_name": "HEB Denton #26030",
+        "job_number": "26D008",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7023,
+          32.60725
+        ]
+      },
+      "properties": {
+        "id": "f2a87904-015d-4d55-bfff-4f94c6ea788d",
+        "url": "https://ops.fencecrete.com/projects/f2a87904-015d-4d55-bfff-4f94c6ea788d",
+        "market": "DFW",
+        "status": "in_production",
+        "job_name": "Pleasant Run #20334",
+        "job_number": "26D009",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5203558,
+          33.1781327
+        ]
+      },
+      "properties": {
+        "id": "2e9788da-690e-4017-b31d-05af1e658013",
+        "url": "https://ops.fencecrete.com/projects/2e9788da-690e-4017-b31d-05af1e658013",
+        "market": "DFW",
+        "status": "material_ready",
+        "job_name": "Chick-Fil-A #05966",
+        "job_number": "26D011",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.24626,
+          32.934055
+        ]
+      },
+      "properties": {
+        "id": "79253c1d-4be4-477e-b0b9-0d9646fba9c2",
+        "url": "https://ops.fencecrete.com/projects/79253c1d-4be4-477e-b0b9-0d9646fba9c2",
+        "market": "DFW",
+        "status": "contract_review",
+        "job_name": "404 Keller Parkway",
+        "job_number": "26D014",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.930235,
+          33.172023
+        ]
+      },
+      "properties": {
+        "id": "7db53180-9562-4a1d-b72f-cc104c2dc25a",
+        "url": "https://ops.fencecrete.com/projects/7db53180-9562-4a1d-b72f-cc104c2dc25a",
+        "market": "DFW",
+        "status": "cancelled",
+        "job_name": "McDonalds Little Elm",
+        "job_number": "26D015",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.864924,
+          33.507106
+        ]
+      },
+      "properties": {
+        "id": "58a48cbd-3485-4812-8ec0-4e1ba6578d07",
+        "url": "https://ops.fencecrete.com/projects/58a48cbd-3485-4812-8ec0-4e1ba6578d07",
+        "market": "DFW",
+        "status": "production_queue",
+        "job_name": "Might Wash Lubbock 96th Street",
+        "job_number": "26D016",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.43354,
+          29.390783
+        ]
+      },
+      "properties": {
+        "id": "2137412f-a5e6-4d9a-b354-3384b045f6ad",
+        "url": "https://ops.fencecrete.com/projects/2137412f-a5e6-4d9a-b354-3384b045f6ad",
+        "market": "HOU",
+        "status": "fully_complete",
+        "job_name": "Creekhaven Sections 4, 5 & 6",
+        "job_number": "26H001",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.719958,
+          30.379349
+        ]
+      },
+      "properties": {
+        "id": "2b32b66e-f02b-4cff-82e1-7b0453c9be0d",
+        "url": "https://ops.fencecrete.com/projects/2b32b66e-f02b-4cff-82e1-7b0453c9be0d",
+        "market": "HOU",
+        "status": "fence_complete",
+        "job_name": "Briarley Sections 4-6",
+        "job_number": "26H002",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3453352987179,
+          29.7441749169488
+        ]
+      },
+      "properties": {
+        "id": "349f4632-34ef-493b-8618-dbc5f458edc3",
+        "url": "https://ops.fencecrete.com/projects/349f4632-34ef-493b-8618-dbc5f458edc3",
+        "market": "HOU",
+        "status": "cancelled",
+        "job_name": "FBC MUD No 50 LS #7 - PO#24-2025",
+        "job_number": "26H003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.110351,
+          29.94992
+        ]
+      },
+      "properties": {
+        "id": "80d4ef66-0f6c-4197-890f-a880f32b631d",
+        "url": "https://ops.fencecrete.com/projects/80d4ef66-0f6c-4197-890f-a880f32b631d",
+        "market": "HOU",
+        "status": "active_install",
+        "job_name": "Sundance Cove East Sections 2 & 3",
+        "job_number": "26H004",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3696573809166,
+          29.7379552654354
+        ]
+      },
+      "properties": {
+        "id": "68934a89-fd87-4490-a44d-cad891ba95ce",
+        "url": "https://ops.fencecrete.com/projects/68934a89-fd87-4490-a44d-cad891ba95ce",
+        "market": "HOU",
+        "status": "cancelled",
+        "job_name": "The Branches WSP Ph 1",
+        "job_number": "26H006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.260106,
+          29.529755
+        ]
+      },
+      "properties": {
+        "id": "47e2bca3-3b6a-4398-a6a9-0ba596875932",
+        "url": "https://ops.fencecrete.com/projects/47e2bca3-3b6a-4398-a6a9-0ba596875932",
+        "market": "HOU",
+        "status": "fully_complete",
+        "job_name": "French Quarter",
+        "job_number": "26H007",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.829724,
+          29.656039
+        ]
+      },
+      "properties": {
+        "id": "d0ae42db-f9b0-4081-978d-c531866e842f",
+        "url": "https://ops.fencecrete.com/projects/d0ae42db-f9b0-4081-978d-c531866e842f",
+        "market": "HOU",
+        "status": "fence_complete",
+        "job_name": "Candela South WTP PO#39408-0016",
+        "job_number": "26H013",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.361294,
+          29.764786
+        ]
+      },
+      "properties": {
+        "id": "e017c420-40a1-45a0-b681-0cdcdfa23560",
+        "url": "https://ops.fencecrete.com/projects/e017c420-40a1-45a0-b681-0cdcdfa23560",
+        "market": "HOU",
+        "status": "active_install",
+        "job_name": "The Trails Ph 2B",
+        "job_number": "26H014",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.807181,
+          29.504987
+        ]
+      },
+      "properties": {
+        "id": "6d282755-cec2-4b02-abad-7b477621eeef",
+        "url": "https://ops.fencecrete.com/projects/6d282755-cec2-4b02-abad-7b477621eeef",
+        "market": "HOU",
+        "status": "active_install",
+        "job_name": "Davina #3059",
+        "job_number": "26H016",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.791274,
+          29.852611
+        ]
+      },
+      "properties": {
+        "id": "b1a911a9-81c6-4b16-9161-7fbf0a0906fd",
+        "url": "https://ops.fencecrete.com/projects/b1a911a9-81c6-4b16-9161-7fbf0a0906fd",
+        "market": "HOU",
+        "status": "contract_review",
+        "job_name": "HC MUD 495 WWTP No 1, Ph 5",
+        "job_number": "26H019",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.70373,
+          29.7883
+        ]
+      },
+      "properties": {
+        "id": "6835eab1-4fb5-4c0b-a3b2-d03a7c03f4cb",
+        "url": "https://ops.fencecrete.com/projects/6835eab1-4fb5-4c0b-a3b2-d03a7c03f4cb",
+        "market": "HOU",
+        "status": "cancelled",
+        "job_name": "Pelican Greenhouse #TPCGH-001",
+        "job_number": "26H020",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.453028,
+          30.060817
+        ]
+      },
+      "properties": {
+        "id": "98d41ed5-ac3f-4c5c-8fe9-dc817e3bc076",
+        "url": "https://ops.fencecrete.com/projects/98d41ed5-ac3f-4c5c-8fe9-dc817e3bc076",
+        "market": "HOU",
+        "status": "in_production",
+        "job_name": "Louetta Farms #TLTAF1-001",
+        "job_number": "26H021",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.289348,
+          29.574036
+        ]
+      },
+      "properties": {
+        "id": "db14afab-feb0-4ac7-9c96-5c534e903c21",
+        "url": "https://ops.fencecrete.com/projects/db14afab-feb0-4ac7-9c96-5c534e903c21",
+        "market": "HOU",
+        "status": "fence_complete",
+        "job_name": "Energy Rental (ERS/CAT) PO#2467",
+        "job_number": "26H025",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.57948,
+          29.59397
+        ]
+      },
+      "properties": {
+        "id": "5d6061e4-6b25-4255-a834-23171ba72e80",
+        "url": "https://ops.fencecrete.com/projects/5d6061e4-6b25-4255-a834-23171ba72e80",
+        "market": "HOU",
+        "status": "production_queue",
+        "job_name": "First Colony MUD 9 LS 2",
+        "job_number": "26H026",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.38424,
+          29.963718
+        ]
+      },
+      "properties": {
+        "id": "a30a4dae-756a-40c9-92cb-b6d17a5e8065",
+        "url": "https://ops.fencecrete.com/projects/a30a4dae-756a-40c9-92cb-b6d17a5e8065",
+        "market": "HOU",
+        "status": "contract_review",
+        "job_name": "TxDOT SWPS Greenhouse Pump Station",
+        "job_number": "26H027",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.889915,
+          30.067265
+        ]
+      },
+      "properties": {
+        "id": "6b7df72f-a29d-4240-9d25-4968824c7597",
+        "url": "https://ops.fencecrete.com/projects/6b7df72f-a29d-4240-9d25-4968824c7597",
+        "market": "HOU",
+        "status": "contract_review",
+        "job_name": "Blinn Waller Harris Co Campus, Bldg 1",
+        "job_number": "26H028",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.206977,
+          29.608755
+        ]
+      },
+      "properties": {
+        "id": "a2373a32-a17a-4a1d-8d3f-f062a7ff7008",
+        "url": "https://ops.fencecrete.com/projects/a2373a32-a17a-4a1d-8d3f-f062a7ff7008",
+        "market": "HOU",
+        "status": "in_production",
+        "job_name": "Gulfbelt Logistics Park SWPS #812-07",
+        "job_number": "26H029",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8690968914185,
+          30.0087425034362
+        ]
+      },
+      "properties": {
+        "id": "0e1ec9e8-029b-4891-badd-5d267b39d2c9",
+        "url": "https://ops.fencecrete.com/projects/0e1ec9e8-029b-4891-badd-5d267b39d2c9",
+        "market": "HOU",
+        "status": "active_install",
+        "job_name": "Grand Prairie Highlands Section 13 & 15",
+        "job_number": "26H030",
+        "coords_source": "manual"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3906118746729,
+          29.7695703431403
+        ]
+      },
+      "properties": {
+        "id": "b9b9ab2f-a4e2-4d8c-b170-3d571b8db4d5",
+        "url": "https://ops.fencecrete.com/projects/b9b9ab2f-a4e2-4d8c-b170-3d571b8db4d5",
+        "market": "HOU",
+        "status": "cancelled",
+        "job_name": "Lago Mar Regional LS #2025092",
+        "job_number": "26H031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.549974,
+          29.652088
+        ]
+      },
+      "properties": {
+        "id": "eb9629de-b775-42cc-9717-2cdb576041f8",
+        "url": "https://ops.fencecrete.com/projects/eb9629de-b775-42cc-9717-2cdb576041f8",
+        "market": "HOU",
+        "status": "fence_complete",
+        "job_name": "Pearland Asian Town",
+        "job_number": "26H032",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.45068,
+          30.078001
+        ]
+      },
+      "properties": {
+        "id": "1d80e631-06f7-494c-acfe-4867270fd713",
+        "url": "https://ops.fencecrete.com/projects/1d80e631-06f7-494c-acfe-4867270fd713",
+        "market": "HOU",
+        "status": "fence_complete",
+        "job_name": "Utility Extension at Spring Stuebner #2026-10",
+        "job_number": "26H034",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.888108,
+          29.415822
+        ]
+      },
+      "properties": {
+        "id": "1ec74031-893b-4f1a-bf28-7320644a8557",
+        "url": "https://ops.fencecrete.com/projects/1ec74031-893b-4f1a-bf28-7320644a8557",
+        "market": "HOU",
+        "status": "contract_review",
+        "job_name": "Westgate Sec 1",
+        "job_number": "26H039",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.888108,
+          29.415822
+        ]
+      },
+      "properties": {
+        "id": "6b7c2c3d-eeaa-453a-884e-f8126523e70a",
+        "url": "https://ops.fencecrete.com/projects/6b7c2c3d-eeaa-453a-884e-f8126523e70a",
+        "market": "HOU",
+        "status": "contract_review",
+        "job_name": "Westgate Sec 1 Water Plant",
+        "job_number": "26H040",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2831544,
+          30.536693
+        ]
+      },
+      "properties": {
+        "id": "dd149e1f-fbe6-4b8d-9b2e-b4cc2e7b7751",
+        "url": "https://ops.fencecrete.com/projects/dd149e1f-fbe6-4b8d-9b2e-b4cc2e7b7751",
+        "market": "HOU",
+        "status": "material_ready",
+        "job_name": "Greens Prairie Reserve Ph 604",
+        "job_number": "26H041",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.55358,
+          29.553136
+        ]
+      },
+      "properties": {
+        "id": "c425a13f-44e8-4b89-bd1c-e72725134556",
+        "url": "https://ops.fencecrete.com/projects/c425a13f-44e8-4b89-bd1c-e72725134556",
+        "market": "HOU",
+        "status": "material_ready",
+        "job_name": "7206 Highway 6 Replacement",
+        "job_number": "26H043",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3884887,
+          29.627452
+        ]
+      },
+      "properties": {
+        "id": "d7079b10-124a-4dfe-9a30-1872b865e8bc",
+        "url": "https://ops.fencecrete.com/projects/d7079b10-124a-4dfe-9a30-1872b865e8bc",
+        "market": "HOU",
+        "status": "contract_review",
+        "job_name": "Joe V's Smart Shop",
+        "job_number": "26H044",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.630615,
+          29.919665
+        ]
+      },
+      "properties": {
+        "id": "ed4cc14f-8d9f-4a53-a0f2-86930d415805",
+        "url": "https://ops.fencecrete.com/projects/ed4cc14f-8d9f-4a53-a0f2-86930d415805",
+        "market": "HOU",
+        "status": "contract_review",
+        "job_name": "Harris County MUD 248",
+        "job_number": "26H045",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.850011,
+          30.008074
+        ]
+      },
+      "properties": {
+        "id": "a5140c7d-bd2b-4103-ab5a-c40a475fd1bb",
+        "url": "https://ops.fencecrete.com/projects/a5140c7d-bd2b-4103-ab5a-c40a475fd1bb",
+        "market": "HOU",
+        "status": "active_install",
+        "job_name": "Grand Prairie Section 12",
+        "job_number": "26H047",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.848423,
+          29.986004
+        ]
+      },
+      "properties": {
+        "id": "e5ae0885-ff05-4cff-8d26-4c3d37246f0e",
+        "url": "https://ops.fencecrete.com/projects/e5ae0885-ff05-4cff-8d26-4c3d37246f0e",
+        "market": "HOU",
+        "status": "in_production",
+        "job_name": "Grand Prairie Section 10",
+        "job_number": "26H048",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.49166,
+          30.41339
+        ]
+      },
+      "properties": {
+        "id": "376c0861-8431-47c9-8126-f3ef616c30f3",
+        "url": "https://ops.fencecrete.com/projects/376c0861-8431-47c9-8126-f3ef616c30f3",
+        "market": "HOU",
+        "status": "production_queue",
+        "job_name": "TWH Section 28 and Section 47",
+        "job_number": "26H050",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.44112,
+          29.58401
+        ]
+      },
+      "properties": {
+        "id": "268ebe83-e7a5-4f30-8ef4-d2c473fb302c",
+        "url": "https://ops.fencecrete.com/projects/268ebe83-e7a5-4f30-8ef4-d2c473fb302c",
+        "market": "HOU",
+        "status": "contract_review",
+        "job_name": "Houston Plant",
+        "job_number": "26H055",
+        "coords_source": "manual"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.504163,
+          29.580406
+        ]
+      },
+      "properties": {
+        "id": "f7868a5e-7ee3-4554-b6ec-0fc8c40aa775",
+        "url": "https://ops.fencecrete.com/projects/f7868a5e-7ee3-4554-b6ec-0fc8c40aa775",
+        "market": "HOU",
+        "status": "contract_review",
+        "job_name": "Blue Commerce Center East - Building 6",
+        "job_number": "26H057",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.550189,
+          35.6674409
+        ]
+      },
+      "properties": {
+        "id": "0b4a0ae7-eaf8-4281-b609-5a180a66298a",
+        "url": "https://ops.fencecrete.com/projects/0b4a0ae7-eaf8-4281-b609-5a180a66298a",
+        "market": "OOS",
+        "status": "in_production",
+        "job_name": "The Scott ",
+        "job_number": "26O002",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.663009,
+          35.4352072
+        ]
+      },
+      "properties": {
+        "id": "9ca0d5bc-2aaa-44aa-995c-cbe738a4409c",
+        "url": "https://ops.fencecrete.com/projects/9ca0d5bc-2aaa-44aa-995c-cbe738a4409c",
+        "market": "OOS",
+        "status": "in_production",
+        "job_name": "The Maddox on Eagle",
+        "job_number": "26O003",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.589257,
+          29.543451
+        ]
+      },
+      "properties": {
+        "id": "104c0391-575c-4b3a-b50e-70fcb10ef83f",
+        "url": "https://ops.fencecrete.com/projects/104c0391-575c-4b3a-b50e-70fcb10ef83f",
+        "market": "SA",
+        "status": "fully_complete",
+        "job_name": "Tiger IV - WO#25038-10 SC-022",
+        "job_number": "26S003",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.19296,
+          29.65984
+        ]
+      },
+      "properties": {
+        "id": "9f3aae23-252d-46ab-9a9c-26d097205def",
+        "url": "https://ops.fencecrete.com/projects/9f3aae23-252d-46ab-9a9c-26d097205def",
+        "market": "SA",
+        "status": "active_install",
+        "job_name": "NBU - HQ #3024030-0039",
+        "job_number": "26S005",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.26627,
+          29.61689
+        ]
+      },
+      "properties": {
+        "id": "c7ff8d51-5e51-4b06-acd9-398cb4ba02a0",
+        "url": "https://ops.fencecrete.com/projects/c7ff8d51-5e51-4b06-acd9-398cb4ba02a0",
+        "market": "SA",
+        "status": "fully_complete",
+        "job_name": "Rudy's Bar-B-Que",
+        "job_number": "26S007",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.393106,
+          29.423449
+        ]
+      },
+      "properties": {
+        "id": "2761e392-7d78-4d40-88e6-c97f7322bff1",
+        "url": "https://ops.fencecrete.com/projects/2761e392-7d78-4d40-88e6-c97f7322bff1",
+        "market": "SA",
+        "status": "active_install",
+        "job_name": "VIA Eastside Transit Center #3025018",
+        "job_number": "26S008",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.54255,
+          29.59764
+        ]
+      },
+      "properties": {
+        "id": "ec8269c8-8940-43e4-a820-720bb3fd4249",
+        "url": "https://ops.fencecrete.com/projects/ec8269c8-8940-43e4-a820-720bb3fd4249",
+        "market": "SA",
+        "status": "fence_complete",
+        "job_name": "19 Wellesley LP PO#00850-03560",
+        "job_number": "26S011",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3756187,
+          29.4663607
+        ]
+      },
+      "properties": {
+        "id": "fb8b32fc-f149-497a-9102-2ad7621ff9b8",
+        "url": "https://ops.fencecrete.com/projects/fb8b32fc-f149-497a-9102-2ad7621ff9b8",
+        "market": "SA",
+        "status": "cancelled",
+        "job_name": "Sundance HOA Perimeter Fence Replacement",
+        "job_number": "26S014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.762715,
+          29.421135
+        ]
+      },
+      "properties": {
+        "id": "d27254c5-efdb-4934-98fe-1a70bb9f34b6",
+        "url": "https://ops.fencecrete.com/projects/d27254c5-efdb-4934-98fe-1a70bb9f34b6",
+        "market": "SA",
+        "status": "active_install",
+        "job_name": "Sundance HOA - 1210 & 1214 Sun Spring",
+        "job_number": "26S016",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.554651,
+          30.684839
+        ]
+      },
+      "properties": {
+        "id": "be238e59-4102-49db-b948-17db0022d78f",
+        "url": "https://ops.fencecrete.com/projects/be238e59-4102-49db-b948-17db0022d78f",
+        "market": "SA",
+        "status": "production_queue",
+        "job_name": "FM 1460 #25-013",
+        "job_number": "26S017",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.802637,
+          29.524839
+        ]
+      },
+      "properties": {
+        "id": "d2e9c49a-e301-4694-b436-45bcb45e93f6",
+        "url": "https://ops.fencecrete.com/projects/d2e9c49a-e301-4694-b436-45bcb45e93f6",
+        "market": "SA",
+        "status": "contract_review",
+        "job_name": "HEB SA 52",
+        "job_number": "26S019",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4995878,
+          29.6504538
+        ]
+      },
+      "properties": {
+        "id": "06f22405-ea5f-450c-bb55-9dbbdc099e4f",
+        "url": "https://ops.fencecrete.com/projects/06f22405-ea5f-450c-bb55-9dbbdc099e4f",
+        "market": "SA",
+        "status": "active_install",
+        "job_name": "Ruslan Lakupov (Residential)",
+        "job_number": "26S020",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.023984,
+          29.738052
+        ]
+      },
+      "properties": {
+        "id": "c779ec53-34ba-4511-a642-703b82db68f7",
+        "url": "https://ops.fencecrete.com/projects/c779ec53-34ba-4511-a642-703b82db68f7",
+        "market": "SA",
+        "status": "in_production",
+        "job_name": "NBU Kohlenberg Substation",
+        "job_number": "26S021",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4816374,
+          29.551916
+        ]
+      },
+      "properties": {
+        "id": "07598d8c-b619-4f82-b121-acaa16359621",
+        "url": "https://ops.fencecrete.com/projects/07598d8c-b619-4f82-b121-acaa16359621",
+        "market": "SA",
+        "status": "contract_review",
+        "job_name": "Girl Scouts Backyard",
+        "job_number": "26S022",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5005515,
+          29.649409
+        ]
+      },
+      "properties": {
+        "id": "887a01e9-c986-4637-9304-9afa90299712",
+        "url": "https://ops.fencecrete.com/projects/887a01e9-c986-4637-9304-9afa90299712",
+        "market": "SA",
+        "status": "active_install",
+        "job_name": "Daniel Aponte (Residential)",
+        "job_number": "26S023",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.502784,
+          29.857588
+        ]
+      },
+      "properties": {
+        "id": "0afd0bdf-0860-4293-a7be-1c505f9872dc",
+        "url": "https://ops.fencecrete.com/projects/0afd0bdf-0860-4293-a7be-1c505f9872dc",
+        "market": "SA",
+        "status": "in_production",
+        "job_name": "Carriage House WWTP",
+        "job_number": "26S025",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.902891,
+          33.486559
+        ]
+      },
+      "properties": {
+        "id": "fc5ad016-6c16-4eb1-8289-1b1d6fd4e27a",
+        "url": "https://ops.fencecrete.com/projects/fc5ad016-6c16-4eb1-8289-1b1d6fd4e27a",
+        "market": "SA",
+        "status": "fully_complete",
+        "job_name": "McCoy's Lubbock Material Only",
+        "job_number": "26S026",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.497435,
+          29.426403
+        ]
+      },
+      "properties": {
+        "id": "8e7b9e4a-e294-4d08-9ec6-4be6749e95c6",
+        "url": "https://ops.fencecrete.com/projects/8e7b9e4a-e294-4d08-9ec6-4be6749e95c6",
+        "market": "SA",
+        "status": "production_queue",
+        "job_name": "Goodwill SA Corp. HQ #FA-2026",
+        "job_number": "26S028",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.181638,
+          29.657888
+        ]
+      },
+      "properties": {
+        "id": "cafae17b-8506-49e0-b541-4c0e4775a1c8",
+        "url": "https://ops.fencecrete.com/projects/cafae17b-8506-49e0-b541-4c0e4775a1c8",
+        "market": "SA",
+        "status": "production_queue",
+        "job_name": "Tesla Sales & Service Center PO#637-00",
+        "job_number": "26S030",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.494014,
+          29.447655
+        ]
+      },
+      "properties": {
+        "id": "cffad722-31f7-4638-9446-2019de7606cd",
+        "url": "https://ops.fencecrete.com/projects/cffad722-31f7-4638-9446-2019de7606cd",
+        "market": "SA",
+        "status": "contract_review",
+        "job_name": "1924 N Main Ave",
+        "job_number": "26S031",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0677932,
+          29.7160049
+        ]
+      },
+      "properties": {
+        "id": "6eab8669-0dd0-4aba-ad8a-49fbcacae5b0",
+        "url": "https://ops.fencecrete.com/projects/6eab8669-0dd0-4aba-ad8a-49fbcacae5b0",
+        "market": "SA",
+        "status": "contract_review",
+        "job_name": "FM 1101 Pump Station",
+        "job_number": "26S033",
+        "coords_source": "geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.583365,
+          29.58667
+        ]
+      },
       "properties": {
         "id": "e044e2df-9661-4c61-af41-87e16a01b6d0",
-        "job_number": "26S034",
-        "job_name": "San Antonio Plant",
-        "status": "production_queue",
-        "market": "San Antonio",
-        "coords_source": "manual",
         "url": "https://ops.fencecrete.com/projects/e044e2df-9661-4c61-af41-87e16a01b6d0",
-        "_sample": true
+        "market": "SA",
+        "status": "contract_review",
+        "job_name": "San Antonio Plant",
+        "job_number": "26S034",
+        "coords_source": "manual"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6393284,
+          29.4751916
+        ]
+      },
+      "properties": {
+        "id": "fe400efa-e75e-42a2-9698-4591c7fe07c1",
+        "url": "https://ops.fencecrete.com/projects/fe400efa-e75e-42a2-9698-4591c7fe07c1",
+        "market": "SA",
+        "status": "closed",
+        "job_name": "Rosenau, Brian",
+        "job_number": "5500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6122,
+          29.5849
+        ]
+      },
+      "properties": {
+        "id": "5e4c655a-68ef-45a2-908a-90fc1b0668a3",
+        "url": "https://ops.fencecrete.com/projects/5e4c655a-68ef-45a2-908a-90fc1b0668a3",
+        "market": "SA",
+        "status": "in_production",
+        "job_name": "Training Demo — Fence Install",
+        "job_number": "TRAIN-01",
+        "coords_source": "manual"
       }
     }
   ]

@@ -185,7 +185,7 @@ export function createFencecreteJobsLayer({
     id: FENCECRETE_JOBS_LAYER_ID,
     name: 'Fencecrete jobs',
     icon: '◼',
-    source: 'Fencecrete sample',
+    source: 'Command Center /map',
     updateInterval: 0,
     statsRefreshInterval: 1000,
 
