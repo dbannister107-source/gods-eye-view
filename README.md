@@ -300,13 +300,21 @@ Thirteen layers and map sources. **Eleven have a keyless path.** Some offer addi
 
 ### Fencecrete jobs (this fork)
 
-Toggle **Fencecrete jobs** in the Data Layers tray. The layer fetches the committed static file `public/data/fencecrete-jobs.geojson` — no live Fencecrete API and no extra keys. The starter file is **two plant pins only** (Houston and San Antonio). Replace it with a full Command Center `/map` export when you want every job on the globe.
+Toggle **Fencecrete jobs** in the Data Layers tray. The layer fetches the committed static file `public/data/fencecrete-jobs.geojson` — no live Fencecrete API and no extra keys. The committed file is the **full geocoded Command Center export**: every job that has a real pin, **215 of 394** as of 2026-09-12. The other 179 have no usable coordinate in Command Center and stay off the globe on purpose — coordinates are never invented or geocoded here.
 
-Refresh the pins from Command Center:
+Each pin carries `id` and a `url`, so clicking a pin or its card opens that job in Command Center. All pins draw; the readable text cards are capped at the overlay cohort limit (96) so a dense market stays legible.
 
-1. Export the `/map` CSV. Expected columns: `Job #`, `Name`, `Status`, `Market`, `Lat`, `Lng`, plus `id` when present.
+Refresh the pins from Command Center — two paths:
+
+**Direct export (preferred).** Drop a FeatureCollection straight into `public/data/fencecrete-jobs.geojson`. This keeps each job's real `coords_source` (`geocoded`, `manual`, or absent), which is the provenance record for how that coordinate was admitted.
+
+**From the `/map` CSV.**
+
+1. Export the `/map` CSV. Expected columns: `Job #`, `Name`, `Status`, `Market`, `Lat`, `Lng`, plus `id` when present. Note the export is the **filtered** view — clear the filters first for a full refresh.
 2. Run `node scripts/map-csv-to-fencecrete-geojson.mjs path/to/export.csv` (writes `public/data/fencecrete-jobs.geojson` by default).
 3. Restart `npm run dev` and turn **Fencecrete jobs** on.
+
+The CSV carries no provenance column, so this path stamps every row `coords_source: command-center-map-csv` — a transport label, not a trust grade. Prefer the direct export when provenance matters.
 
 Rows with blank or non-finite Lat/Lng are skipped. Coordinates are never invented or geocoded. A project URL (`https://ops.fencecrete.com/projects/{id}`) is written only when `id` is present. Clicking a pin or its card opens that URL in a new tab.
 

@@ -23,8 +23,45 @@ import {
   selectFencecreteJobOverlayCohort,
 } from './fencecreteJobs.js';
 
-const SAMPLE_PATH = fileURLToPath(new URL('../../public/data/fencecrete-jobs.geojson', import.meta.url));
-const SAMPLE = JSON.parse(readFileSync(SAMPLE_PATH, 'utf8'));
+const SNAPSHOT_PATH = fileURLToPath(new URL('../../public/data/fencecrete-jobs.geojson', import.meta.url));
+const SNAPSHOT = JSON.parse(readFileSync(SNAPSHOT_PATH, 'utf8'));
+
+// A fixed two-job payload for the lifecycle test below. That test is about
+// layer BEHAVIOUR -- entities, overlay cards, click-to-open -- not about how
+// many jobs ship today, so it must not be wired to the committed export: a
+// routine `/map` refresh would otherwise turn a behaviour test red for a
+// reason that has nothing to do with behaviour.
+const LIFECYCLE_SNAPSHOT = Object.freeze({
+  type: 'FeatureCollection',
+  features: [
+    {
+      type: 'Feature',
+      geometry: { type: 'Point', coordinates: [-95.44112, 29.58401] },
+      properties: {
+        id: '268ebe83-e7a5-4f30-8ef4-d2c473fb302c',
+        job_number: '26H055',
+        job_name: 'Houston Plant',
+        status: 'contract_review',
+        market: 'HOU',
+        coords_source: 'manual',
+        url: 'https://ops.fencecrete.com/projects/268ebe83-e7a5-4f30-8ef4-d2c473fb302c',
+      },
+    },
+    {
+      type: 'Feature',
+      geometry: { type: 'Point', coordinates: [-98.583365, 29.58667] },
+      properties: {
+        id: 'e044e2df-9661-4c61-af41-87e16a01b6d0',
+        job_number: '26S034',
+        job_name: 'San Antonio Plant',
+        status: 'contract_review',
+        market: 'SA',
+        coords_source: 'manual',
+        url: 'https://ops.fencecrete.com/projects/e044e2df-9661-4c61-af41-87e16a01b6d0',
+      },
+    },
+  ],
+});
 
 test('main.js registers the additive Fencecrete layer without replacing stock layers', () => {
   const main = readFileSync(new URL('../main.js', import.meta.url), 'utf8');
@@ -34,17 +71,39 @@ test('main.js registers the additive Fencecrete layer without replacing stock la
   assert.match(main, /dataManager\.register\(flightsLayer\)/);
 });
 
-test('committed sample GeoJSON is a two-plant FeatureCollection with finite pins', () => {
-  assert.equal(SAMPLE.type, 'FeatureCollection');
-  assert.equal(SAMPLE.features.length, 2);
-  const rows = normalizeFencecreteJobsSnapshot(SAMPLE);
-  assert.equal(rows.length, 2);
-  assert.deepEqual(rows.map((row) => row.jobNumber), ['26H055', '26S034']);
-  assert.equal(rows[0].lon, -95.4807);
-  assert.equal(rows[0].lat, 29.5994);
-  assert.equal(rows[1].lon, -98.6122);
-  assert.equal(rows[1].lat, 29.5849);
+test('committed GeoJSON is the full Command Center export, not the two-plant starter', () => {
+  assert.equal(SNAPSHOT.type, 'FeatureCollection');
+  // The starter file was two hand-placed plant pins. Guard a floor rather than
+  // an exact count, so a routine `/map` refresh does not break the suite — but
+  // keep the floor far enough above 2 that a revert to the starter goes red.
+  assert.ok(
+    SNAPSHOT.features.length >= 200,
+    `expected the full export (>=200 pins), found ${SNAPSHOT.features.length}`,
+  );
+
+  const rows = normalizeFencecreteJobsSnapshot(SNAPSHOT);
+  // Every committed feature must survive normalization. A drop here means a
+  // non-finite coordinate or a duplicate id shipped inside the export.
+  assert.equal(rows.length, SNAPSHOT.features.length);
+  assert.ok(rows.every((row) => row.url), 'every job needs a deep-link URL');
   assert.match(rows[0].url, /^https:\/\/ops\.fencecrete\.com\/projects\//);
+
+  // `_sample` marked the hand-placed starter pins. The real export carries none.
+  assert.equal(
+    SNAPSHOT.features.filter((feature) => '_sample' in (feature.properties ?? {})).length,
+    0,
+    '_sample belongs to the retired starter file',
+  );
+
+  // Both plants must sit on the coordinates Command Center Setup holds, not the
+  // retired hand-placed ones. These are the two rows a reader checks by eye.
+  const plants = new Map(
+    rows.filter((row) => row.jobNumber === '26H055' || row.jobNumber === '26S034')
+      .map((row) => [row.jobNumber, row]),
+  );
+  assert.equal(plants.size, 2, 'both plant jobs must be on the globe');
+  assert.deepEqual([plants.get('26H055').lon, plants.get('26H055').lat], [-95.44112, 29.58401]);
+  assert.deepEqual([plants.get('26S034').lon, plants.get('26S034').lat], [-98.583365, 29.58667]);
 });
 
 test('normalizeFencecreteJobsSnapshot skips features missing finite coordinates and never invents them', () => {
@@ -243,7 +302,7 @@ test('layer lifecycle fetches static GeoJSON, publishes overlay cards, and opens
   };
   globalThis.fetch = async (url) => {
     assert.equal(url, '/data/fencecrete-jobs.geojson');
-    return { ok: true, json: async () => SAMPLE };
+    return { ok: true, json: async () => LIFECYCLE_SNAPSHOT };
   };
   const layer = createFencecreteJobsLayer({
     overlayHost,
